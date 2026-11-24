@@ -206,8 +206,8 @@
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "_exfpAbg|rItEeEdL}KSgBaAqBuE{GuNiNaWcVmAkAy@o@uYuGS_Hf@c_@g@qMgCmEoCyEgEoF_J_A_G[aCLkGv@cJbCcGnB[JFXXjBeC|@u@Tu@RsNzEeA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtA~Jhv@vC`UlA`JvJpu@TlA|Jh^e@hEdDtr@|@`KDf@ZdDLjBJxADhE?`CQh@l@fDEzBQlCWtAc@z@eAtAmAx@aB`@_EJ`B`A`Bb@dACnKa@xBMj@Op@[`@SnBy@jBgAz@g@hHgEOgAi@mDqF{]_Fw[lc@aMtAm@GuJ_TtHqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}AbDoCs\\k_@xP}JNoAF_@hF{Cd@}@}HyIlHwSc@}J`WbVeHpMhAnAxDnC|KjUuEdE",
-                "longitud_m": 2039,
+                "polyline": "_exfpAbg|rItEeEdL}KSgBaAqBuE{GuNiNaWcVmAkAy@o@uYuGS_Hf@c_@g@qMgCmEoCyEgEoF_J_A_G[aCLkGv@cJbCcGnB[JFXXjBeC|@u@Tu@RsNzEeA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtA~Jhv@vC`UlA`JvJpu@TlA|Jh^e@hEdDtr@|@`KDf@ZdDLjBJxADhE?`CQh@u@}BWk@k@c@m@c@y@[gAOgAA}@jCgAj@q@~@s@fAg@zASzAWfCLrAVnAt@`Cz@lA|@l@`B`A`Bb@dACnKa@xBMj@Op@[`@SnBy@jBgAz@g@hHgEOgAi@mDqF{]_Fw[zP{E?sIqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}AbDoCs\\k_@xP}JNoAF_@hF{Cb@}@bHsJdCxDhAnAxDnC|KjUuEdE",
+                "longitud_m": 1872,
                 "tramos": [
                     {
                         "nombre": "Herreros",
@@ -272,67 +272,62 @@
                     {
                         "nombre": "Plaza de Santo Domingo",
                         "desde_m": 1044,
-                        "hasta_m": 1096
+                        "hasta_m": 1124
                     },
                     {
                         "nombre": "Independencia",
-                        "desde_m": 1096,
-                        "hasta_m": 1184
+                        "desde_m": 1124,
+                        "hasta_m": 1212
                     },
                     {
                         "nombre": "Legión VII",
-                        "desde_m": 1184,
-                        "hasta_m": 1276
+                        "desde_m": 1212,
+                        "hasta_m": 1305
                     },
                     {
                         "nombre": "Plaza de San Marcelo",
-                        "desde_m": 1276,
-                        "hasta_m": 1424
+                        "desde_m": 1305,
+                        "hasta_m": 1372
                     },
                     {
                         "nombre": "Teatro",
-                        "desde_m": 1424,
-                        "hasta_m": 1451
+                        "desde_m": 1372,
+                        "hasta_m": 1399
                     },
                     {
                         "nombre": "Rúa",
-                        "desde_m": 1451,
-                        "hasta_m": 1686
+                        "desde_m": 1399,
+                        "hasta_m": 1634
                     },
                     {
                         "nombre": "Plaza de las Concepciones",
-                        "desde_m": 1686,
-                        "hasta_m": 1696
+                        "desde_m": 1634,
+                        "hasta_m": 1645
                     },
                     {
                         "nombre": "Fernández Cadórniga",
-                        "desde_m": 1696,
-                        "hasta_m": 1764
+                        "desde_m": 1645,
+                        "hasta_m": 1712
                     },
                     {
                         "nombre": "Juan II",
-                        "desde_m": 1764,
-                        "hasta_m": 1803
-                    },
-                    {
-                        "nombre": "Plaza de Santa María del Camino",
-                        "desde_m": 1803,
-                        "hasta_m": 1945
+                        "desde_m": 1712,
+                        "hasta_m": 1751
                     },
                     {
                         "nombre": "Rinconada D. Enrique García Centeno",
-                        "desde_m": 1945,
-                        "hasta_m": 1970
+                        "desde_m": 1751,
+                        "hasta_m": 1803
                     },
                     {
                         "nombre": "El Mercado",
-                        "desde_m": 1970,
-                        "hasta_m": 2024
+                        "desde_m": 1803,
+                        "hasta_m": 1857
                     },
                     {
                         "nombre": "Herreros",
-                        "desde_m": 2024,
-                        "hasta_m": 2039
+                        "desde_m": 1857,
+                        "hasta_m": 1872
                     }
                 ],
                 "paradas": [
@@ -354,12 +349,12 @@
                     {
                         "nombre": "Parada para cantar la Salve",
                         "tipo": "acto",
-                        "along_m": 1070
+                        "along_m": 1084
                     },
                     {
                         "nombre": "Iglesia de Nuestra Señora del Mercado",
                         "tipo": "entrada",
-                        "along_m": 2039
+                        "along_m": 1872
                     }
                 ]
             }
@@ -827,8 +822,8 @@
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "o|dgpAho_sI?wAlBeAvRoItOcFjMZpC~P`NoFlIgDfb@eRbDyA`CeARK~F{BlJoD`@OpNuEfDy@|ZcD|Jh^e@hEdDtr@|@`Kz@Qz@QsCsTxPeGlc@aMtAm@GuJ_TtHqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}AbDoCs\\k_@sOkSy@fCoAiBoAgBsCqEoDiFr@_AaHeGcKgGkBqBuAiCoAgEuAiIYr@qIzCyAn@Ka@Ia@uAaHWkDsByH}@eEkG}YKg@dA]eA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtAqa@bFbGhXtQnUvRJvC`UlA`Jwg@zQgBp@iFpBoEpEiD`EwAZPdC{I~CoATuEXeBFDaB{ITiCJcMxEwMjIqCjB_@J`El_@pC~P`NoFaNnFqC_QkM[uObFwRnImBdAg@V}@e\\h@d@XvINxENvE@|A?vA",
-                "longitud_m": 2415,
+                "polyline": "o|dgpAho_sI?wAlBeAvRoItOcFjMZpC~P`NoFlIgDfb@eRbDyA`CeARK~F{BlJoD`@OpNuEfDy@|ZcD|Jh^e@hEdDtr@|@`Kz@Qz@QsCsTxPeGzP{E?sIqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}AbDoCs\\k_@sOkSy@fCoAiBoAgBsCqEoDiFr@_AaHeGcKgGkBqBuAiCoAgEuAiIYr@qIzCyAn@Ka@Ia@uAaHWkDsByH}@eEkG}YKg@dA]eA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtAqa@bFbGhXtQnUvRJvC`UlA`Jwg@zQgBp@iFpBoEpEiD`EwAZPdC{I~CoATuEXeBFDaB{ITiCJcMxEwMjIqCjB_@J`El_@pC~P`NoFaNnFqC_QkM[uObFwRnImBdAg@V}@e\\h@d@XvINxENvE@|A?vA",
+                "longitud_m": 2334,
                 "tramos": [
                     {
                         "nombre": "Plaza de Santo Martino",
@@ -868,102 +863,102 @@
                     {
                         "nombre": "Plaza de San Marcelo",
                         "desde_m": 601,
-                        "hasta_m": 749
+                        "hasta_m": 668
                     },
                     {
                         "nombre": "Teatro",
-                        "desde_m": 749,
-                        "hasta_m": 775
+                        "desde_m": 668,
+                        "hasta_m": 695
                     },
                     {
                         "nombre": "Rúa",
-                        "desde_m": 775,
-                        "hasta_m": 1010
+                        "desde_m": 695,
+                        "hasta_m": 930
                     },
                     {
                         "nombre": "Plaza de las Concepciones",
-                        "desde_m": 1010,
-                        "hasta_m": 1021
+                        "desde_m": 930,
+                        "hasta_m": 941
                     },
                     {
                         "nombre": "Fernández Cadórniga",
-                        "desde_m": 1021,
-                        "hasta_m": 1129
+                        "desde_m": 941,
+                        "hasta_m": 1048
                     },
                     {
                         "nombre": "Plaza de Don Gutierre",
-                        "desde_m": 1129,
-                        "hasta_m": 1177
+                        "desde_m": 1048,
+                        "hasta_m": 1097
                     },
                     {
                         "nombre": "Zapaterías",
-                        "desde_m": 1177,
-                        "hasta_m": 1259
+                        "desde_m": 1097,
+                        "hasta_m": 1179
                     },
                     {
                         "nombre": "Plaza de San Martín",
-                        "desde_m": 1259,
-                        "hasta_m": 1303
+                        "desde_m": 1179,
+                        "hasta_m": 1222
                     },
                     {
                         "nombre": "Plegaria",
-                        "desde_m": 1303,
-                        "hasta_m": 1373
+                        "desde_m": 1222,
+                        "hasta_m": 1293
                     },
                     {
                         "nombre": "Plaza Mayor",
-                        "desde_m": 1373,
-                        "hasta_m": 1405
+                        "desde_m": 1293,
+                        "hasta_m": 1324
                     },
                     {
                         "nombre": "Mariano Domínguez Berrueta",
-                        "desde_m": 1405,
-                        "hasta_m": 1548
+                        "desde_m": 1324,
+                        "hasta_m": 1468
                     },
                     {
                         "nombre": "Plaza de Regla",
-                        "desde_m": 1548,
-                        "hasta_m": 1644
+                        "desde_m": 1468,
+                        "hasta_m": 1564
                     },
                     {
                         "nombre": "Sierra Pambley",
-                        "desde_m": 1644,
-                        "hasta_m": 1760
+                        "desde_m": 1564,
+                        "hasta_m": 1679
                     },
                     {
                         "nombre": "Ancha",
-                        "desde_m": 1760,
-                        "hasta_m": 1805
+                        "desde_m": 1679,
+                        "hasta_m": 1725
                     },
                     {
                         "nombre": "Cervantes",
-                        "desde_m": 1805,
-                        "hasta_m": 1933
+                        "desde_m": 1725,
+                        "hasta_m": 1853
                     },
                     {
                         "nombre": "Plaza Torres de Omaña",
-                        "desde_m": 1933,
-                        "hasta_m": 1985
+                        "desde_m": 1853,
+                        "hasta_m": 1905
                     },
                     {
                         "nombre": "Fernando González Regueral",
-                        "desde_m": 1985,
-                        "hasta_m": 2069
+                        "desde_m": 1905,
+                        "hasta_m": 1988
                     },
                     {
                         "nombre": "Plaza San Isidoro",
-                        "desde_m": 2069,
-                        "hasta_m": 2177
+                        "desde_m": 1988,
+                        "hasta_m": 2097
                     },
                     {
                         "nombre": "Sacramento",
-                        "desde_m": 2177,
-                        "hasta_m": 2334
+                        "desde_m": 2097,
+                        "hasta_m": 2254
                     },
                     {
                         "nombre": "Plaza Santo Martino",
-                        "desde_m": 2334,
-                        "hasta_m": 2415
+                        "desde_m": 2254,
+                        "hasta_m": 2334
                     }
                 ],
                 "paradas": [
@@ -985,17 +980,17 @@
                     {
                         "nombre": "Ofrenda floral al Cristo de Fuera de la Iglesia de San Martín",
                         "tipo": "acto",
-                        "along_m": 1338
+                        "along_m": 1257
                     },
                     {
                         "nombre": "Los Hermanos harán una estación de Penitencia",
                         "tipo": "acto",
-                        "along_m": 1596
+                        "along_m": 1516
                     },
                     {
                         "nombre": "Patio de la Real Basílica – Colegiata de San Isidoro",
                         "tipo": "entrada",
-                        "along_m": 2415
+                        "along_m": 2334
                     }
                 ]
             }
@@ -1508,8 +1503,8 @@
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "sl~fpAbbxrIBlQ]bRzDtHzVqFpQeIbJy@rBxHVjDtA`HH`@J`@xAo@pI{CXs@tAhInAfEtAhCjBpBbKfG`HdGs@~@nDhFrCpEnAfBnAhBx@gCrOjSr\\j_@cDnCkF|AqD\\sJp@wNdA_Kx@kNhB_AJoC`@yS|CaEGoS~EoGx@n@jSpAdN~SuHFtJuAl@mc@`MyPdGrCrTwBb@}@aKeDur@d@iE}Ji^UmAwJqu@mAaJwCaU_Kiv@qa@bFyNeKtKmD",
-                "longitud_m": 1414,
+                "polyline": "sl~fpAbbxrIBlQ]bRzDtHzVqFpQeIbJy@rBxHVjDtA`HH`@J`@xAo@pI{CXs@tAhInAfEtAhCjBpBbKfG`HdGs@~@nDhFrCpEnAfBnAhBx@gCrOjSr\\j_@cDnCkF|AqD\\sJp@wNdA_Kx@kNhB_AJoC`@yS|CaEGoS~EoGx@n@jSpAdN?rI{PzEyPdGrCrTwBb@}@aKeDur@d@iE}Ji^UmAwJqu@mAaJwCaU_Kiv@qa@bFyNeKtKmD",
+                "longitud_m": 1333,
                 "tramos": [
                     {
                         "nombre": "La Sal",
@@ -1574,37 +1569,27 @@
                     {
                         "nombre": "Plaza de San Marcelo",
                         "desde_m": 740,
-                        "hasta_m": 888
+                        "hasta_m": 871
                     },
                     {
                         "nombre": "Hermandad Sacramental de Santa Marta y de la Sagrada Cena",
-                        "desde_m": 888,
-                        "hasta_m": 921
+                        "desde_m": 871,
+                        "hasta_m": 877
                     },
                     {
                         "nombre": "Plaza de San Marcelo",
-                        "desde_m": 921,
-                        "hasta_m": 951
-                    },
-                    {
-                        "nombre": "Hermandad Sacramental de Santa Marta y de la Sagrada Cena",
-                        "desde_m": 951,
-                        "hasta_m": 958
-                    },
-                    {
-                        "nombre": "Plaza de San Marcelo",
-                        "desde_m": 958,
-                        "hasta_m": 1051
+                        "desde_m": 877,
+                        "hasta_m": 970
                     },
                     {
                         "nombre": "Ancha",
-                        "desde_m": 1051,
-                        "hasta_m": 1295
+                        "desde_m": 970,
+                        "hasta_m": 1215
                     },
                     {
                         "nombre": "Plaza de Regla",
-                        "desde_m": 1295,
-                        "hasta_m": 1414
+                        "desde_m": 1215,
+                        "hasta_m": 1333
                     }
                 ],
                 "paradas": [
@@ -1616,7 +1601,7 @@
                     {
                         "nombre": "Incorporación en el Antiguo Ayuntamiento de la Corporación Municipal",
                         "tipo": "acto",
-                        "along_m": 814
+                        "along_m": 805
                     }
                 ]
             }
@@ -4526,8 +4511,8 @@
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "wqvfpAxkbsIgCIuEw@gC_Ba@MsDu@uF}@mAUqI_BgEu@{@OyP}Cub@}HqAU}Ew@N~HFnDd@v^hFb[{AvAqTfKp@tEpVj{AkExKaMwk@eKqd@UaAsEsSsLui@eEmQo@iEaH_d@YiBmCbBaAj@gEhCyKzGoGzDOgAi@mDqF{]_Fw[lc@aMtAm@GuJ_TtHqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}ApL^~JdEjb@fW`Br@dCzAbFfEjAtA|BfCrEdGbA?_@tEO`EArDB~D?~A~@xm@BzJFxEuEtEaA`@cDl@uEAqDnA`@LfC~AtEv@fCH",
-                "longitud_m": 1769,
+                "polyline": "wqvfpAxkbsIgCIuEw@gC_Ba@MsDu@uF}@mAUqI_BgEu@{@OyP}Cub@}HqAU}Ew@N~HFnDd@v^hFb[{AvAqTfKp@tEpVj{AkExKaMwk@eKqd@UaAsEsSsLui@eEmQo@iEaH_d@YiBmCbBaAj@gEhCyKzGoGzDOgAi@mDqF{]_Fw[zP{E?sIqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}ApL^~JdEjb@fW`Br@dCzAbFfEjAtA|BfCrEdGbA?_@tEO`EArDB~D?~A~@xm@BzJFxEuEtEaA`@cDl@uEAqDnA`@LfC~AtEv@fCH",
+                "longitud_m": 1688,
                 "tramos": [
                     {
                         "nombre": "Cofradía del Dulce Nombre de Jesús Nazareno",
@@ -4572,37 +4557,37 @@
                     {
                         "nombre": "San Marcelo",
                         "desde_m": 976,
-                        "hasta_m": 1123
+                        "hasta_m": 1043
                     },
                     {
                         "nombre": "Teatro",
-                        "desde_m": 1123,
-                        "hasta_m": 1150
+                        "desde_m": 1043,
+                        "hasta_m": 1070
                     },
                     {
                         "nombre": "Rúa",
-                        "desde_m": 1150,
-                        "hasta_m": 1385
+                        "desde_m": 1070,
+                        "hasta_m": 1305
                     },
                     {
                         "nombre": "Plaza de las Concepciones",
-                        "desde_m": 1385,
-                        "hasta_m": 1409
+                        "desde_m": 1305,
+                        "hasta_m": 1329
                     },
                     {
                         "nombre": "San Francisco",
-                        "desde_m": 1409,
-                        "hasta_m": 1517
+                        "desde_m": 1329,
+                        "hasta_m": 1437
                     },
                     {
                         "nombre": "Jardín de San Francisco",
-                        "desde_m": 1517,
-                        "hasta_m": 1688
+                        "desde_m": 1437,
+                        "hasta_m": 1608
                     },
                     {
                         "nombre": "Cofradía del Dulce Nombre de Jesús Nazareno",
-                        "desde_m": 1688,
-                        "hasta_m": 1769
+                        "desde_m": 1608,
+                        "hasta_m": 1688
                     }
                 ],
                 "paradas": [
@@ -4614,7 +4599,7 @@
                     {
                         "nombre": "Capilla de Santa Nonia",
                         "tipo": "entrada",
-                        "along_m": 1769
+                        "along_m": 1688
                     }
                 ]
             }
@@ -5075,108 +5060,108 @@
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "klxfpAzrzrIdAbAaWcVb@|JmHvS|HxIe@|@iFzCG^OnAyP|JsOkSy@fCoAiBoAgBsCqEoDiFr@_AaHeGcKgGkBqBuAiCoAgEuAiIYr@qIzCyAn@Ka@Ia@uAaHWkDsByH}@eEkG}YKg@dA]eA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtA~Jhv@vC`UlA`JvJpu@TlA|Jh^e@hEdDtr@|@`Kz@Qz@QsCsTxPeGlc@aMtAm@GuJ_TtHqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}AbDoCs\\k_@xP}JNoAF_@hF{Cd@}@}HyIlHwSc@}J`WbVeAcA",
-                "longitud_m": 1759,
+                "polyline": "klxfpAzrzrI{T_TcFhr@OnAyP|JsOkSy@fCoAiBoAgBsCqEoDiFr@_AaHeGcKgGkBqBuAiCoAgEuAiIYr@qIzCyAn@Ka@Ia@uAaHWkDsByH}@eEkG}YKg@dA]eA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtA~Jhv@vC`UlA`JvJpu@TlA|Jh^e@hEdDtr@|@`Kz@Qz@QsCsTxPeGzP{E?sIqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}AbDoCs\\k_@xP}JNoAbFir@zT~S",
+                "longitud_m": 1618,
                 "tramos": [
                     {
                         "nombre": "Plaza del Grano",
                         "desde_m": 0,
-                        "hasta_m": 57
+                        "hasta_m": 116
                     },
                     {
                         "nombre": "Juan II",
-                        "desde_m": 57,
-                        "hasta_m": 185
+                        "desde_m": 116,
+                        "hasta_m": 155
                     },
                     {
                         "nombre": "Fernández Cadórniga",
-                        "desde_m": 185,
-                        "hasta_m": 225
+                        "desde_m": 155,
+                        "hasta_m": 195
                     },
                     {
                         "nombre": "Plaza de Don Gutierre",
-                        "desde_m": 225,
-                        "hasta_m": 273
+                        "desde_m": 195,
+                        "hasta_m": 243
                     },
                     {
                         "nombre": "Zapaterías",
-                        "desde_m": 273,
-                        "hasta_m": 356
+                        "desde_m": 243,
+                        "hasta_m": 325
                     },
                     {
                         "nombre": "Plaza San Martín",
-                        "desde_m": 356,
-                        "hasta_m": 399
+                        "desde_m": 325,
+                        "hasta_m": 369
                     },
                     {
                         "nombre": "Plegaria",
-                        "desde_m": 399,
-                        "hasta_m": 470
+                        "desde_m": 369,
+                        "hasta_m": 439
                     },
                     {
                         "nombre": "Plaza Mayor",
-                        "desde_m": 470,
-                        "hasta_m": 501
+                        "desde_m": 439,
+                        "hasta_m": 471
                     },
                     {
                         "nombre": "Mariano Domínguez Berrueta",
-                        "desde_m": 501,
-                        "hasta_m": 645
+                        "desde_m": 471,
+                        "hasta_m": 614
                     },
                     {
                         "nombre": "Plaza de Regla",
-                        "desde_m": 645,
-                        "hasta_m": 678
+                        "desde_m": 614,
+                        "hasta_m": 648
                     },
                     {
                         "nombre": "Ancha",
-                        "desde_m": 678,
-                        "hasta_m": 923
+                        "desde_m": 648,
+                        "hasta_m": 893
                     },
                     {
                         "nombre": "Plaza San Marcelo",
-                        "desde_m": 923,
-                        "hasta_m": 1020
+                        "desde_m": 893,
+                        "hasta_m": 989
                     },
                     {
                         "nombre": "Hermandad Sacramental de Santa Marta y de la Sagrada Cena",
-                        "desde_m": 1020,
-                        "hasta_m": 1086
+                        "desde_m": 989,
+                        "hasta_m": 1055
                     },
                     {
                         "nombre": "Plaza San Marcelo",
-                        "desde_m": 1086,
-                        "hasta_m": 1234
+                        "desde_m": 1055,
+                        "hasta_m": 1123
                     },
                     {
                         "nombre": "Teatro",
-                        "desde_m": 1234,
-                        "hasta_m": 1260
+                        "desde_m": 1123,
+                        "hasta_m": 1150
                     },
                     {
                         "nombre": "La Rúa",
-                        "desde_m": 1260,
-                        "hasta_m": 1495
+                        "desde_m": 1150,
+                        "hasta_m": 1384
                     },
                     {
                         "nombre": "Plaza de las Concepciones",
-                        "desde_m": 1495,
-                        "hasta_m": 1506
+                        "desde_m": 1384,
+                        "hasta_m": 1395
                     },
                     {
                         "nombre": "Fernández Cadórniga",
-                        "desde_m": 1506,
-                        "hasta_m": 1574
+                        "desde_m": 1395,
+                        "hasta_m": 1463
                     },
                     {
                         "nombre": "Juan II",
-                        "desde_m": 1574,
-                        "hasta_m": 1612
+                        "desde_m": 1463,
+                        "hasta_m": 1502
                     },
                     {
                         "nombre": "Plaza de Santa María del Camino",
-                        "desde_m": 1612,
-                        "hasta_m": 1759
+                        "desde_m": 1502,
+                        "hasta_m": 1618
                     }
                 ],
                 "paradas": [
@@ -5188,12 +5173,12 @@
                     {
                         "nombre": "Ofrenda al Cristo de Fuera",
                         "tipo": "acto",
-                        "along_m": 434
+                        "along_m": 404
                     },
                     {
                         "nombre": "Convento RR. MM. Benedictinas – Carbajalas",
                         "tipo": "entrada",
-                        "along_m": 1759
+                        "along_m": 1618
                     }
                 ]
             }
@@ -5386,8 +5371,8 @@
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "k}tfpA`p_sIqA_@aW}IiA[u@UmF_BkDw@cA?wA?qEE{CTcEXyFZs@DmAPcN`A}DR_P~AcMbCea@hOmAj@iCfAqCbAcGxB{ExBiAh@aGrC_Ad@yPjJkA`BgCdBmCbBaAj@gEhCyKzGoGzDiHfE{@f@kBfAoBx@a@Rq@Zk@NyBLoK`@eABaBc@aBaA}@m@{@mALnCCtCOvCk@~ByB|I}CfMoBvHo@dCmJb^i@xBUz@uA`FeAhAq@jCsEzQsBpLsCnL}CdMgJ`^BxDVdEtBlDnArEhBQvBy@fa@}NlHmCgEsVeHqa@~k@iTn_@kNaVgzAe@}C]sBj@Op@[`@SnBy@jBgAz@g@hHgEOgAi@mDqF{]_Fw[lc@aMtAm@GuJ_TtHqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}ApL^~JdEjb@fW`Br@dCzAbFfEjAtA|BfCrEdGbA?jDv@lF~At@ThAZ`W|IpA^",
-                "longitud_m": 2179,
+                "polyline": "k}tfpA`p_sIqA_@aW}IiA[u@UmF_BkDw@cA?wA?qEE{CTcEXyFZs@DmAPcN`A}DR_P~AcMbCea@hOmAj@iCfAqCbAcGxB{ExBiAh@aGrC_Ad@yPjJkA`BgCdBmCbBaAj@gEhCyKzGoGzDiHfE{@f@kBfAoBx@a@Rq@Zk@NyBLoK`@eABaBc@aBaA}@m@{@mALnCCtCOvCk@~ByB|I}CfMoBvHo@dCmJb^i@xBUz@uA`FeAhAq@jCsEzQsBpLsCnL}CdMgJ`^BxDVdEtBlDnArEhBQvBy@fa@}NlHmCgEsVeHqa@~k@iTn_@kNaVgzAe@}C]sBj@Op@[`@SnBy@jBgAz@g@hHgEOgAi@mDqF{]_Fw[zP{E?sIqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}ApL^~JdEjb@fW`Br@dCzAbFfEjAtA|BfCrEdGbA?jDv@lF~At@ThAZ`W|IpA^",
+                "longitud_m": 2099,
                 "tramos": [
                     {
                         "nombre": "Corredera",
@@ -5452,37 +5437,37 @@
                     {
                         "nombre": "Plaza de San Marcelo",
                         "desde_m": 1508,
-                        "hasta_m": 1656
+                        "hasta_m": 1575
                     },
                     {
                         "nombre": "Teatro",
-                        "desde_m": 1656,
-                        "hasta_m": 1682
+                        "desde_m": 1575,
+                        "hasta_m": 1602
                     },
                     {
                         "nombre": "Rúa",
-                        "desde_m": 1682,
-                        "hasta_m": 1917
+                        "desde_m": 1602,
+                        "hasta_m": 1837
                     },
                     {
                         "nombre": "Plaza de las Concepciones",
-                        "desde_m": 1917,
-                        "hasta_m": 1941
+                        "desde_m": 1837,
+                        "hasta_m": 1861
                     },
                     {
                         "nombre": "San Francisco",
-                        "desde_m": 1941,
-                        "hasta_m": 2049
+                        "desde_m": 1861,
+                        "hasta_m": 1969
                     },
                     {
                         "nombre": "Plaza de San Francisco",
-                        "desde_m": 2049,
-                        "hasta_m": 2108
+                        "desde_m": 1969,
+                        "hasta_m": 2028
                     },
                     {
                         "nombre": "Corredera",
-                        "desde_m": 2108,
-                        "hasta_m": 2179
+                        "desde_m": 2028,
+                        "hasta_m": 2099
                     }
                 ],
                 "paradas": [
@@ -5499,7 +5484,7 @@
                     {
                         "nombre": "Iglesia de San Francisco",
                         "tipo": "entrada",
-                        "along_m": 2179
+                        "along_m": 2099
                     }
                 ]
             }
@@ -5976,8 +5961,8 @@
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "uo}fpAbc`sIkB{Llc@aM|Jhp@j@vDTvAfCeBjAaBxPkJ~@e@`GsChAi@zEyBbGyBpCcAhCgAlAk@da@iObMcC~O_B|DSbNaAlAQr@ExF[bEYzCUpEDvA?sEeG}BgCkAuAcFgEeC{AaBs@f@}SiAyM{CkZcC{LY}AeL|KgJjIg@bAcJfImCzCuBlBcDnCkF|AqD\\sJp@wNdA_Kx@kNhB_AJoC`@yS|CaEGoS~EoGx@n@jSpAdN~SuHFtJuAl@mc@`MjBzL",
-                "longitud_m": 1211,
+                "polyline": "uo}fpAbc`sIkB{Llc@aM|Jhp@j@vDTvAfCeBjAaBxPkJ~@e@`GsChAi@zEyBbGyBpCcAhCgAlAk@da@iObMcC~O_B|DSbNaAlAQr@ExF[bEYzCUpEDvA?sEeG}BgCkAuAcFgEeC{AaBs@f@}SiAyM{CkZcC{LY}AeL|KgJjIg@bAcJfImCzCuBlBcDnCkF|AqD\\sJp@wNdA_Kx@kNhB_AJoC`@yS|CaEGoS~EoGx@n@jSpAdN?rI{PzEjBzL",
+                "longitud_m": 1131,
                 "tramos": [
                     {
                         "nombre": "Legión VII",
@@ -6037,12 +6022,12 @@
                     {
                         "nombre": "Plaza de San Marcelo",
                         "desde_m": 1044,
-                        "hasta_m": 1192
+                        "hasta_m": 1112
                     },
                     {
                         "nombre": "Legión VII",
-                        "desde_m": 1192,
-                        "hasta_m": 1211
+                        "desde_m": 1112,
+                        "hasta_m": 1131
                     }
                 ],
                 "paradas": [
@@ -6059,7 +6044,7 @@
                     {
                         "nombre": "Iglesia de San Marcelo",
                         "tipo": "entrada",
-                        "along_m": 1211
+                        "along_m": 1131
                     }
                 ]
             }
@@ -7258,8 +7243,8 @@
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "qvsfpAj{_sIeFm@}@KkFo@_F{@{PcFaW}IiA[u@UmF_BkDw@cA?sEeG}BgCkAuAcFgEeC{AaBs@kb@gW_KeEqL_@bDoCs\\k_@sOkSy@fCoAiBoAgBsCqEoDiFr@_AaHeGcKgGkBqBuAiCoAgEuAiIYr@qIzCyAn@Ka@Ia@uAaHWkDsByH}@eEkG}YKg@dA]eA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtA~Jhv@vC`UlA`JvJpu@TlA|Jh^e@hEdDtr@|@`Kz@Qz@QsCsTxPeGlc@aMtAm@GuJ_TtHqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}ApL^~JdEjb@fW`Br@dCzAbFfEjAtA|BfCrEdGbA?jDv@lF~At@ThAZ`W|IzPbF~Ez@jFn@|@JdFl@",
-                "longitud_m": 2054,
+                "polyline": "qvsfpAj{_sIeFm@}@KkFo@_F{@{PcFaW}IiA[u@UmF_BkDw@cA?sEeG}BgCkAuAcFgEeC{AaBs@kb@gW_KeEqL_@bDoCs\\k_@sOkSy@fCoAiBoAgBsCqEoDiFr@_AaHeGcKgGkBqBuAiCoAgEuAiIYr@qIzCyAn@Ka@Ia@uAaHWkDsByH}@eEkG}YKg@dA]eA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtA~Jhv@vC`UlA`JvJpu@TlA|Jh^e@hEdDtr@|@`Kz@Qz@QsCsTxPeGzP{E?sIqAeNo@kSnGy@nS_F`EFxS}CnCa@~@KjNiB~Jy@vNeArJq@pD]jF}ApL^~JdEjb@fW`Br@dCzAbFfEjAtA|BfCrEdGbA?jDv@lF~At@ThAZ`W|IzPbF~Ez@jFn@|@JdFl@",
+                "longitud_m": 1973,
                 "tramos": [
                     {
                         "nombre": "Corredera",
@@ -7339,37 +7324,37 @@
                     {
                         "nombre": "Plaza de San Marcelo",
                         "desde_m": 1312,
-                        "hasta_m": 1459
+                        "hasta_m": 1379
                     },
                     {
                         "nombre": "Teatro",
-                        "desde_m": 1459,
-                        "hasta_m": 1486
+                        "desde_m": 1379,
+                        "hasta_m": 1406
                     },
                     {
                         "nombre": "Rúa",
-                        "desde_m": 1486,
-                        "hasta_m": 1721
+                        "desde_m": 1406,
+                        "hasta_m": 1641
                     },
                     {
                         "nombre": "Plaza de las Concepciones",
-                        "desde_m": 1721,
-                        "hasta_m": 1745
+                        "desde_m": 1641,
+                        "hasta_m": 1665
                     },
                     {
                         "nombre": "San Francisco",
-                        "desde_m": 1745,
-                        "hasta_m": 1853
+                        "desde_m": 1665,
+                        "hasta_m": 1772
                     },
                     {
                         "nombre": "Plaza de San Francisco",
-                        "desde_m": 1853,
-                        "hasta_m": 1912
+                        "desde_m": 1772,
+                        "hasta_m": 1832
                     },
                     {
                         "nombre": "Corredera",
-                        "desde_m": 1912,
-                        "hasta_m": 2054
+                        "desde_m": 1832,
+                        "hasta_m": 1973
                     }
                 ],
                 "paradas": [
@@ -7386,7 +7371,7 @@
                     {
                         "nombre": "Plaza de los Donantes de Sangre",
                         "tipo": "entrada",
-                        "along_m": 2054
+                        "along_m": 1973
                     }
                 ]
             }
@@ -9143,118 +9128,118 @@
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "klxfpAzrzrIdAbAaWcVb@|JmHvS|HxIe@|@iFzCG^OnAyP|JsOkSy@fCoAiBoAgBsCqEoDiFr@_AaHeGcKgGkBqBuAiCoAgEuAiIYr@qIzCyAn@Ka@Ia@uAaHWkDsByH}@eEkG}YKg@dA]eA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtA~Jhv@vC`UlA`JvJpu@TlA|Jh^wBfC{KvCsUlEeG|BkF`Ce}@ja@k@hUfHTjBFdFRph@jBjRb@bEX~BXtA`@`KjHSzAWfCLrAVnAt@`Cz@lA|@l@`B`A`Bb@dACnKa@xBMj@Op@[`@SnBy@jBgAz@g@hHgEnG{DxK{GfEiC`Ak@lCcBfCeBjAaBxPiJ~@g@`GqChAk@_AcLaJohA~@KjNiB~Jy@vNeArJq@pD]jF}AbDoCs\\k_@xP}JNoAF_@hF{Cd@}@}HyIlHwSc@}J`WbVeAcA",
-                "longitud_m": 2132,
+                "polyline": "klxfpAzrzrI{T_TcFhr@OnAyP|JsOkSy@fCoAiBoAgBsCqEoDiFr@_AaHeGcKgGkBqBuAiCoAgEuAiIYr@qIzCyAn@Ka@Ia@uAaHWkDsByH}@eEkG}YKg@dA]eA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtA~Jhv@vC`UlA`JvJpu@TlA|Jh^wBfC{KvCsUlEeG|BkF`Ce}@ja@uBbM^xB^~BHJfHTjBFdFRph@jBjRb@bEX~BXtA`@rBnAp@x@fAxBbAfCP`AP`ALrAVnAt@`Cz@lA|@l@`B`A`Bb@dACnKa@xBMj@Op@[`@SnBy@jBgAz@g@hHgEnG{DxK{GfEiC`Ak@lCcBfCeBjAaBxPkJ~@e@`GsChAi@_AcLaJohA~@KjNiB~Jy@vNeArJq@pD]jF}AbDoCs\\k_@xP}JNoAbFir@zT~S",
+                "longitud_m": 2069,
                 "tramos": [
                     {
                         "nombre": "Plaza del Grano",
                         "desde_m": 0,
-                        "hasta_m": 57
+                        "hasta_m": 116
                     },
                     {
                         "nombre": "Juan II",
-                        "desde_m": 57,
-                        "hasta_m": 185
+                        "desde_m": 116,
+                        "hasta_m": 155
                     },
                     {
                         "nombre": "Fernández Cadórniga",
-                        "desde_m": 185,
-                        "hasta_m": 225
+                        "desde_m": 155,
+                        "hasta_m": 195
                     },
                     {
                         "nombre": "Plaza de Don Gutierre",
-                        "desde_m": 225,
-                        "hasta_m": 273
+                        "desde_m": 195,
+                        "hasta_m": 243
                     },
                     {
                         "nombre": "Zapaterías",
-                        "desde_m": 273,
-                        "hasta_m": 356
+                        "desde_m": 243,
+                        "hasta_m": 325
                     },
                     {
                         "nombre": "Plaza San Martín",
-                        "desde_m": 356,
-                        "hasta_m": 399
+                        "desde_m": 325,
+                        "hasta_m": 369
                     },
                     {
                         "nombre": "Plegaria",
-                        "desde_m": 399,
-                        "hasta_m": 470
+                        "desde_m": 369,
+                        "hasta_m": 439
                     },
                     {
                         "nombre": "Plaza Mayor",
-                        "desde_m": 470,
-                        "hasta_m": 501
+                        "desde_m": 439,
+                        "hasta_m": 471
                     },
                     {
                         "nombre": "Mariano Domínguez Berrueta",
-                        "desde_m": 501,
-                        "hasta_m": 645
+                        "desde_m": 471,
+                        "hasta_m": 614
                     },
                     {
                         "nombre": "Plaza de Regla",
-                        "desde_m": 645,
-                        "hasta_m": 678
+                        "desde_m": 614,
+                        "hasta_m": 648
                     },
                     {
                         "nombre": "Ancha",
-                        "desde_m": 678,
-                        "hasta_m": 923
+                        "desde_m": 648,
+                        "hasta_m": 893
                     },
                     {
                         "nombre": "Plaza de San Marcelo",
-                        "desde_m": 923,
-                        "hasta_m": 956
+                        "desde_m": 893,
+                        "hasta_m": 925
                     },
                     {
                         "nombre": "Ruiz de Salazar",
-                        "desde_m": 956,
+                        "desde_m": 925,
                         "hasta_m": 1146
                     },
                     {
                         "nombre": "Ramón y Cajal",
                         "desde_m": 1146,
-                        "hasta_m": 1342
+                        "hasta_m": 1343
                     },
                     {
                         "nombre": "Plaza de Santo Domingo",
-                        "desde_m": 1342,
-                        "hasta_m": 1398
+                        "desde_m": 1343,
+                        "hasta_m": 1365
                     },
                     {
                         "nombre": "Independencia",
-                        "desde_m": 1398,
-                        "hasta_m": 1627
+                        "desde_m": 1365,
+                        "hasta_m": 1594
                     },
                     {
                         "nombre": "Policía Nacional",
-                        "desde_m": 1627,
-                        "hasta_m": 1743
+                        "desde_m": 1594,
+                        "hasta_m": 1710
                     },
                     {
                         "nombre": "La Rúa",
-                        "desde_m": 1743,
-                        "hasta_m": 1868
+                        "desde_m": 1710,
+                        "hasta_m": 1835
                     },
                     {
                         "nombre": "Plaza de las Concepciones",
-                        "desde_m": 1868,
-                        "hasta_m": 1879
+                        "desde_m": 1835,
+                        "hasta_m": 1846
                     },
                     {
                         "nombre": "Fernández Cadórniga",
-                        "desde_m": 1879,
-                        "hasta_m": 1947
+                        "desde_m": 1846,
+                        "hasta_m": 1914
                     },
                     {
                         "nombre": "Juan II",
-                        "desde_m": 1947,
-                        "hasta_m": 1986
+                        "desde_m": 1914,
+                        "hasta_m": 1952
                     },
                     {
                         "nombre": "Plaza de Santa María del Camino",
-                        "desde_m": 1986,
-                        "hasta_m": 2132
+                        "desde_m": 1952,
+                        "hasta_m": 2069
                     }
                 ],
                 "paradas": [
@@ -9266,17 +9251,17 @@
                     {
                         "nombre": "Sermón de la Soledad",
                         "tipo": "acto",
-                        "along_m": 29
+                        "along_m": 58
                     },
                     {
                         "nombre": "Ofrenda al Cristo de Fuera",
                         "tipo": "acto",
-                        "along_m": 434
+                        "along_m": 404
                     },
                     {
                         "nombre": "Convento RR. MM. Benedictinas – Carbajalas",
                         "tipo": "entrada",
-                        "along_m": 2132
+                        "along_m": 2069
                     }
                 ]
             }
@@ -10033,8 +10018,8 @@
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "_o`gpArcwrImC{SaBn@c@wD~FwAhEcA`@GxHt_@Z`DzD~XHh@`XqAtPw@b[yBhGqBZKV~@\\xAvE{AdA[dA]eA\\Jf@jG|Y|@dErBxHVjDtA`HH`@J`@xAo@pI{CXs@tAhInAfEtAhCjBpBbKfG`HdGs@~@nDhFrCpEnAfBnAhBx@gCrOjSr\\j_@cDnCkF|AqD\\sJp@wNdA_Kx@kNhB_AJoC`@yS|CaEGoS~EoGx@n@jSpAdN~SuHFtJuAl@mc@`MyPdGrCrTwBb@}@aKeDur@d@iE}Ji^UmAwJqu@mAaJwCaU_Kiv@qa@bFcCeB",
-                "longitud_m": 1586,
+                "polyline": "_o`gpArcwrImC{SaBn@c@wD~FwAhEcA`@GxHt_@Z`DzD~XHh@`XqAtPw@b[yBhGqBZKV~@\\xAvE{AdA[dA]eA\\Jf@jG|Y|@dErBxHVjDtA`HH`@J`@xAo@pI{CXs@tAhInAfEtAhCjBpBbKfG`HdGs@~@nDhFrCpEnAfBnAhBx@gCrOjSr\\j_@cDnCkF|AqD\\sJp@wNdA_Kx@kNhB_AJoC`@yS|CaEGoS~EoGx@n@jSpAdN?rI{PzEyPdGrCrTwBb@}@aKeDur@d@iE}Ji^UmAwJqu@mAaJwCaU_Kiv@qa@bFcCeB",
+                "longitud_m": 1506,
                 "tramos": [
                     {
                         "nombre": "Plaza de Regla",
@@ -10094,37 +10079,27 @@
                     {
                         "nombre": "Plaza de San Marcelo",
                         "desde_m": 961,
-                        "hasta_m": 1108
+                        "hasta_m": 1091
                     },
                     {
                         "nombre": "Hermandad Sacramental de Santa Marta y de la Sagrada Cena",
-                        "desde_m": 1108,
-                        "hasta_m": 1142
+                        "desde_m": 1091,
+                        "hasta_m": 1098
                     },
                     {
                         "nombre": "Plaza de San Marcelo",
-                        "desde_m": 1142,
-                        "hasta_m": 1171
-                    },
-                    {
-                        "nombre": "Hermandad Sacramental de Santa Marta y de la Sagrada Cena",
-                        "desde_m": 1171,
-                        "hasta_m": 1178
-                    },
-                    {
-                        "nombre": "Plaza de San Marcelo",
-                        "desde_m": 1178,
-                        "hasta_m": 1271
+                        "desde_m": 1098,
+                        "hasta_m": 1191
                     },
                     {
                         "nombre": "Ancha",
-                        "desde_m": 1271,
-                        "hasta_m": 1516
+                        "desde_m": 1191,
+                        "hasta_m": 1435
                     },
                     {
                         "nombre": "Plaza de Regla",
-                        "desde_m": 1516,
-                        "hasta_m": 1586
+                        "desde_m": 1435,
+                        "hasta_m": 1506
                     }
                 ],
                 "paradas": [
@@ -10151,12 +10126,12 @@
                     {
                         "nombre": "Entrega del fuego en la Parroquia de San Marcelo",
                         "tipo": "acto",
-                        "along_m": 1034
+                        "along_m": 1026
                     },
                     {
                         "nombre": "Entrega del fuego; Vigilia Pascual a las 23:00",
                         "tipo": "acto",
-                        "along_m": 1586,
+                        "along_m": 1506,
                         "hora": "23:00"
                     }
                 ]
