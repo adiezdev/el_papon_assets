@@ -1311,7 +1311,7 @@
             "Junta Mayor de la Semana Santa de León"
         ],
         "escudos_url": [
-            "https://www.semanasantaleon.org/img/logo.svg"
+            "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@481981b70e437e98bfce555d632cf6d1bc2962cc/escudos/junta-mayor.webp"
         ],
         "recorrido": [
             "Museo Diocesano y de Semana Santa",
@@ -1933,7 +1933,6 @@
         "site": "Interior de la Iglesia de San Francisco",
         "description": "Esta procesión, de carácter inmemorial con referencias documentales que se remontan a 1734, es organizada por la Orden Franciscana Seglar en colaboración con la Cofradía Santísimo Cristo de la Expiración y del Silencio. El desfile destaca por recuperar el sabor del León popular y auténtico, reuniendo previamente a los hermanos de las cofradías de la Sobarriba para el rezo de una Salve antes de incorporarse al cortejo. A lo largo del recorrido por el casco antiguo, se mantienen ritos de gran calado devocional como el rezo cantado a la Virgen frente a la Catedral y, de forma muy especial, el solemne acto del Encuentro de la Santísima Virgen con su Hijo en la Calle de la Amargura. Es una cita que combina la austeridad franciscana con la participación de las tradiciones rurales, consolidando un nexo histórico único que subraya la identidad y el legado centenario de la ciudad.",
         "escudos_url": [
-            "https://www.semanasantaleon.org/imagenes/imagenes/logo-expiracion-y-silencio.jpg",
             "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-del-santisimo-cristo-de-la-expiracion-y-del-silencio-svg.webp"
         ],
         "thumbnail": {
