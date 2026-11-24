@@ -2629,8 +2629,7 @@
         "description": "Bendición de Ramos y Palmas en el interior de la Capilla de Santa Nonia y, a continuación, procesión. Al terminar se celebra la Eucaristía.",
         "escudos_url": [
             "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-de-nuestra-senora-de-las-angustias-y-soledad-nuevo.svg",
-            "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-del-dulce-nombre-de-jesus-nazareno.svg",
-            "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-de-la-real-cofradia-del-santisimo-sacramento-de-minerva-y-la-santa-vera-cruz.svg"
+            "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-del-dulce-nombre-de-jesus-nazareno.svg"
         ],
         "thumbnail": {
             "image": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/thumbdails/lunes-santo/procesion-de-la-pasion.webp"
@@ -2638,38 +2637,46 @@
         "pasos": [],
         "recorrido": [
             "Capilla de Santa Nonia (bendición de Ramos y Palmas)",
+            "Cofradía del Dulce Nombre de Jesús Nazareno",
             "República Argentina",
             "Villa Benavente",
-            "Plaza Fernando Merino (con vuelta)",
-            "Lancia"
+            "Plaza Fernando Merino",
+            "Lancia",
+            "Cofradía del Dulce Nombre de Jesús Nazareno",
+            "Capilla de Santa Nonia"
         ],
         "tipo": "procesion",
         "recorridos": [
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "akwfpAfnbsIOf@qJ``@}AlGqAlFsApFiDpNpJ`F`Af@ff@|VzFxCIf@Ej@CzEHr@Ll@Pb@V`@X\\ZR^N^H`@?^G^O_@N_@Fa@?_@I_@O[SY]Wa@Qc@Mm@Is@B{EDk@Hg@Ng@Pa@V]XYZQV_FDeFCiB[iUaA{q@",
-                "longitud_m": 420,
+                "polyline": "wqvfpAxkbsIgCIuEw@gC_Ba@MsDu@sAhFi@pBqJ``@}AlGqAlFsApFiDpNpJ`F`Af@ff@|VzFxCNg@Pa@V]XYZQV_FDeFCiB[iUmAaz@K}HyE\\qAEe@C",
+                "longitud_m": 450,
                 "tramos": [
                     {
-                        "nombre": "República Argentina",
+                        "nombre": "Cofradía del Dulce Nombre de Jesús Nazareno",
                         "desde_m": 0,
-                        "hasta_m": 106
+                        "hasta_m": 40
+                    },
+                    {
+                        "nombre": "República Argentina",
+                        "desde_m": 40,
+                        "hasta_m": 161
                     },
                     {
                         "nombre": "Villa Benavente",
-                        "desde_m": 106,
-                        "hasta_m": 225
-                    },
-                    {
-                        "nombre": "Plaza Fernando Merino",
-                        "desde_m": 225,
-                        "hasta_m": 292
+                        "desde_m": 161,
+                        "hasta_m": 279
                     },
                     {
                         "nombre": "Lancia",
-                        "desde_m": 292,
-                        "hasta_m": 420
+                        "desde_m": 279,
+                        "hasta_m": 431
+                    },
+                    {
+                        "nombre": "Cofradía del Dulce Nombre de Jesús Nazareno",
+                        "desde_m": 431,
+                        "hasta_m": 450
                     }
                 ],
                 "paradas": [
@@ -2677,6 +2684,11 @@
                         "nombre": "Bendición de Ramos y Palmas",
                         "tipo": "acto",
                         "along_m": 0
+                    },
+                    {
+                        "nombre": "Capilla de Santa Nonia",
+                        "tipo": "entrada",
+                        "along_m": 450
                     }
                 ]
             }
@@ -3200,8 +3212,8 @@
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "wqvfpAxkbsIgCIuEw@gC_Ba@MpDoAtE@bDm@`Aa@tEuEGyEC{J_Aym@?_BC_E@sDNaE^uEcA?sEeG}BgCkAuAcFgEeC{AaBs@kb@gW_KeEqL_@bDoCs\\k_@sOkSy@fCoAiBoAgBsCqEoDiFr@_AaHeGcKgGkBqBuAiCoAgEuAiIYr@qIzCyAn@Ka@Ia@uAaHWkDsByH}@eEkG}YKg@dA]eA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtA~Jhv@vC`UlA`JvJpu@TlA|Jh^e@hEdDtr@|@`KDf@ZdDLjBJxADhE?`CQh@l@fDEzBQlCWtAc@z@eAtAmAx@aB`@_EJ`B`A`Bb@dACnKa@xBMj@Op@[`@SnBy@jBgAz@g@hHgEnG{DxK{GfEiC`Ak@lCcBfCeB`EM~M|BhATdXdFhAT`Er@|Ev@pATtb@|HxP|Cz@NfEt@pI~AlATtF|@rDt@`@LfC~Ar@L",
-                "longitud_m": 1835,
+                "polyline": "wqvfpAxkbsIgCIuEw@gC_Ba@MpDoAtE@bDm@`Aa@tEuEGyEC{J_Aym@?_BC_E@sDNaE^uEcA?sEeG}BgCkAuAcFgEeC{AaBs@kb@gW_KeEqL_@bDoCs\\k_@sOkSy@fCoAiBoAgBsCqEoDiFr@_AaHeGcKgGkBqBuAiCoAgEuAiIYr@qIzCyAn@Ka@Ia@uAaHWkDsByH}@eEkG}YKg@dA]eA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtA~Jhv@vC`UlA`JvJpu@TlA|Jh^e@hEdDtr@|@`KDf@ZdDLjBJxADhE?`CQh@l@fDEzBQlCWtAc@z@eAtAmAx@WnCnKa@xBMj@Op@[`@SnBy@jBgAz@g@hHgEnG{DxK{GfEiC`Ak@lCcBfCeB`EM~M|BhATdXdFhAT`Er@|Ev@pATtb@|HxP|Cz@NfEt@pI~AlATtF|@rDt@`@LfC~Ar@L",
+                "longitud_m": 1809,
                 "tramos": [
                     {
                         "nombre": "Cofradía Dulce Nombre de Jesús Nazareno",
@@ -3276,22 +3288,22 @@
                     {
                         "nombre": "Plaza de Santo Domingo",
                         "desde_m": 1325,
-                        "hasta_m": 1377
+                        "hasta_m": 1361
                     },
                     {
                         "nombre": "Independencia",
-                        "desde_m": 1377,
-                        "hasta_m": 1542
+                        "desde_m": 1361,
+                        "hasta_m": 1516
                     },
                     {
                         "nombre": "Santa Nonia",
-                        "desde_m": 1542,
-                        "hasta_m": 1811
+                        "desde_m": 1516,
+                        "hasta_m": 1785
                     },
                     {
                         "nombre": "Cofradía Dulce Nombre de Jesús Nazareno",
-                        "desde_m": 1811,
-                        "hasta_m": 1835
+                        "desde_m": 1785,
+                        "hasta_m": 1809
                     }
                 ],
                 "paradas": [
@@ -3303,7 +3315,7 @@
                     {
                         "nombre": "capilla Santa Nonia",
                         "tipo": "entrada",
-                        "along_m": 1835
+                        "along_m": 1809
                     }
                 ]
             }
