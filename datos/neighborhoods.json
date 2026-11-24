@@ -13,7 +13,8 @@
       {
         "dia": "Domingo de Ramos",
         "nombre": "PROCESIÓN DE LOS RAMOS",
-        "id_dia": "b7894321-c456-4321-b123-987654321001"
+        "id_dia": "b7894321-c456-4321-b123-987654321001",
+        "id_procession": "d-ramos-05"
       },
       {
         "dia": "Lunes Santo",
@@ -34,7 +35,7 @@
       }
     ],
     "secciones_musicales": [
-      "Agrupación Musical de Nuestra Señora de las Angustias y Soledad"
+      "Agrupación Musical Nuestra Señora de las Angustias y Soledad"
     ]
   },
   {
@@ -62,9 +63,9 @@
       }
     ],
     "secciones_musicales": [
-      "Banda de Música Cofradía del Dulce Nombre de Jesús Nazareno",
-      "Agrupación Musical Cofradía del Dulce Nombre de Jesús Nazareno",
-      "Banda de Cornetas y Tambores Cofradía del Dulce Nombre de Jesús Nazareno"
+      "Agrupación Musical Dulce Nombre de Jesús Nazareno",
+      "Banda de Cornetas y Tambores Dulce Nombre de Jesús Nazareno",
+      "Banda de Música Dulce Nombre de Jesús Nazareno"
     ]
   },
   {
@@ -141,7 +142,8 @@
       {
         "dia": "Domingo de Ramos",
         "nombre": "PROCESIÓN DE LOS RAMOS",
-        "id_dia": "b7894321-c456-4321-b123-987654321001"
+        "id_dia": "b7894321-c456-4321-b123-987654321001",
+        "id_procession": "d-ramos-07"
       },
       {
         "dia": "Sábado Santo",
@@ -157,7 +159,7 @@
       }
     ],
     "secciones_musicales": [
-      "Agrupación Musical Real Hermandad de Jesús Divino Obrero"
+      "Agrupación Musical Jesús Divino Obrero"
     ]
   },
   {
@@ -185,7 +187,7 @@
       }
     ],
     "secciones_musicales": [
-      "Banda de música Siete Palabras"
+      "Banda de Música Siete Palabras de Jesús en la Cruz"
     ]
   },
   {
@@ -202,7 +204,8 @@
       {
         "dia": "Domingo de Ramos",
         "nombre": "PROCESIÓN DE LOS RAMOS",
-        "id_dia": "b7894321-c456-4321-b123-987654321001"
+        "id_dia": "b7894321-c456-4321-b123-987654321001",
+        "id_procession": "d-ramos-06"
       },
       {
         "dia": "Martes Santo",
@@ -212,7 +215,7 @@
       }
     ],
     "secciones_musicales": [
-      "Sección de Música de la Cofradía Santo Cristo del Perdón"
+      "Banda de Música Santo Cristo del Perdón"
     ]
   },
   {
@@ -323,7 +326,8 @@
       {
         "dia": "Domingo de Ramos",
         "nombre": "PROCESIÓN DE LOS RAMOS",
-        "id_dia": "b7894321-c456-4321-b123-987654321001"
+        "id_dia": "b7894321-c456-4321-b123-987654321001",
+        "id_procession": "d-ramos-08"
       },
       {
         "dia": "Jueves Santo",
@@ -339,7 +343,7 @@
       }
     ],
     "secciones_musicales": [
-      "Sección Musical del Desenclavo"
+      "Agrupación Musical Santo Cristo del Desenclavo"
     ]
   },
   {
@@ -361,7 +365,7 @@
       }
     ],
     "secciones_musicales": [
-      "Agrupación Musical Santo Sepulcro-Esperanza de la Vida"
+      "Agrupación Musical Santo Sepulcro Esperanza de Vida"
     ]
   },
   {
@@ -409,7 +413,7 @@
       }
     ],
     "secciones_musicales": [
-      "Agrupación Musical Cristo del Gran Poder: 115 componentes"
+      "Agrupación Musical Cristo del Gran Poder"
     ]
   },
   {
