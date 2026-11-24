@@ -8843,458 +8843,440 @@
         "id_dia": "77788899-aaaa-bbbb-cccc-ddeeff003344",
         "name_procession": "Solemne y Oficial Procesión del Santo Entierro",
         "cofradias": [
-            "Cofradía Nuestra Señora de las Angustias y Soledad"
+            "Real Cofradía Santísimo Sacramento de Minerva y la Santa Vera Cruz"
         ],
         "escudos_url": [
-            "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-de-nuestra-senora-de-las-angustias-y-soledad-nuevo.svg"
+            "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-de-la-real-cofradia-del-santisimo-sacramento-de-minerva-y-la-santa-vera-cruz.svg"
         ],
         "description": "",
-        "hour": "18:00",
-        "site": "Capilla de Santa Nonia",
+        "hour": "19:00",
+        "site": "Convento RR. MM. Benedictinas - Carbajalas",
         "recorrido": [
-            "Capilla de Santa Nonia",
-            "Jardín de San Francisco",
-            "San Francisco",
-            "Hospicio",
-            "Escurial",
-            "Plaza Santa María del Camino (del Grano)",
-            "Cuesta de las Carbajalas",
-            "La Redención",
-            "Cofradía Nuestra Señora de las Angustias y Soledad",
-            "Cuesta de los Castañones",
-            "Santa Cruz",
-            "Plaza Mayor",
+            "salida del Convento RR. MM. Benedictinas - Carbajalas",
+            "Plaza del Grano (Sermón de la Soledad)",
+            "Juan II",
+            "Fernández Cadórniga",
+            "Plaza de Don Gutierre",
+            "Zapaterías",
+            "Plaza San Martín",
+            "Plegaria (ofrenda al Cristo de Fuera)",
+            "Plaza Mayor (sin vuelta)",
             "Mariano Domínguez Berrueta",
             "Plaza de Regla",
-            "Cardenal Landázuri",
-            "Convento",
-            "Plaza del Vizconde",
-            "Plaza del Desenclavo",
-            "Serranos",
-            "Puerta Castillo",
-            "Plaza Santo Martino",
-            "(Descanso)",
-            "Sacramento",
-            "Plaza de San Isidoro",
-            "El Cid",
             "Ancha",
-            "Plaza San Marcelo",
+            "Ruiz de Salazar",
+            "Ramón y Cajal",
             "Plaza de Santo Domingo",
             "Independencia",
             "Policía Nacional",
-            "Rúa",
+            "La Rúa",
             "Plaza de las Concepciones",
-            "San Francisco",
-            "Jardín de San Francisco",
-            "Iglesia de Santa Nonia"
+            "Fernández Cadórniga",
+            "Juan II",
+            "Plaza de Santa María del Camino (Plaza del Grano)",
+            "Convento RR. MM. Benedictinas – Carbajalas"
         ],
         "recorrido_map": [
             {
-                "lat": 42.594139775080066,
-                "lng": -5.572454354846229
+                "lat": 42.59503,
+                "lng": -5.568318
             },
             {
-                "lat": 42.59417732698449,
-                "lng": -5.572260516473136
+                "lat": 42.59538,
+                "lng": -5.567982
             },
             {
-                "lat": 42.59406467120283,
-                "lng": -5.572148294257659
+                "lat": 42.595513,
+                "lng": -5.568505
             },
             {
-                "lat": 42.593967036027436,
-                "lng": -5.572056476081542
+                "lat": 42.595373,
+                "lng": -5.568709
             },
             {
-                "lat": 42.59395201521798,
-                "lng": -5.571694304385829
+                "lat": 42.595494,
+                "lng": -5.568803
             },
             {
-                "lat": 42.59398205683377,
-                "lng": -5.570750617573253
+                "lat": 42.595787,
+                "lng": -5.569034
             },
             {
-                "lat": 42.593944504811645,
-                "lng": -5.570566981219798
+                "lat": 42.596082,
+                "lng": -5.568776
             },
             {
-                "lat": 42.594308758472124,
-                "lng": -5.570179304474806
+                "lat": 42.596162,
+                "lng": -5.568671
             },
             {
-                "lat": 42.59443267933506,
-                "lng": -5.570118092357802
+                "lat": 42.596324,
+                "lng": -5.568449
             },
             {
-                "lat": 42.59441023516442,
-                "lng": -5.569801016122824
+                "lat": 42.596443,
+                "lng": -5.568286
             },
             {
-                "lat": 42.594602708218474,
-                "lng": -5.568828846313153
+                "lat": 42.596691,
+                "lng": -5.568097
             },
             {
-                "lat": 42.594722715205734,
-                "lng": -5.56861771145654
+                "lat": 42.596774,
+                "lng": -5.567928
             },
             {
-                "lat": 42.59545193730415,
-                "lng": -5.567925408713478
+                "lat": 42.59683,
+                "lng": -5.567789
             },
             {
-                "lat": 42.595872171091486,
-                "lng": -5.567778075711033
+                "lat": 42.597044,
+                "lng": -5.567891
             },
             {
-                "lat": 42.5958965685451,
-                "lng": -5.567627094792925
+                "lat": 42.597055,
+                "lng": -5.567857
             },
             {
-                "lat": 42.595861841990484,
-                "lng": -5.567172247951504
+                "lat": 42.59711,
+                "lng": -5.567626
             },
             {
-                "lat": 42.59589166110405,
-                "lng": -5.566885015962043
+                "lat": 42.597199,
+                "lng": -5.56737
             },
             {
-                "lat": 42.59613021349634,
-                "lng": -5.566557276897697
+                "lat": 42.597339,
+                "lng": -5.566919
             },
             {
-                "lat": 42.59642569189862,
-                "lng": -5.566509404899904
+                "lat": 42.597339,
+                "lng": -5.566919
             },
             {
-                "lat": 42.59679943075645,
-                "lng": -5.566604513808528
+                "lat": 42.597482,
+                "lng": -5.566979
             },
             {
-                "lat": 42.59703797967376,
-                "lng": -5.566707622727876
+                "lat": 42.597509,
+                "lng": -5.566902
             },
             {
-                "lat": 42.597146410697775,
-                "lng": -5.566210490438266
+                "lat": 42.597656,
+                "lng": -5.566965
             },
             {
-                "lat": 42.597517785526605,
-                "lng": -5.566354106433465
+                "lat": 42.598389,
+                "lng": -5.567054
             },
             {
-                "lat": 42.59740664438621,
-                "lng": -5.566854921183591
+                "lat": 42.598772,
+                "lng": -5.567173
             },
             {
-                "lat": 42.59764996981565,
-                "lng": -5.5669652097057565
+                "lat": 42.598732,
+                "lng": -5.567362
             },
             {
-                "lat": 42.59881287129093,
-                "lng": -5.567101460777167
+                "lat": 42.59876,
+                "lng": -5.567462
             },
             {
-                "lat": 42.599572833600035,
-                "lng": -5.567380934289162
+                "lat": 42.598492,
+                "lng": -5.5687
             },
             {
-                "lat": 42.599640600255555,
-                "lng": -5.567104749683978
+                "lat": 42.598265,
+                "lng": -5.56975
             },
             {
-                "lat": 42.60014207121597,
-                "lng": -5.5672667779854805
+                "lat": 42.598063,
+                "lng": -5.57029
             },
             {
-                "lat": 42.600315908804134,
-                "lng": -5.56725573159531
+                "lat": 42.598329,
+                "lng": -5.570434
             },
             {
-                "lat": 42.60236785001027,
-                "lng": -5.567980694827867
+                "lat": 42.598822,
+                "lng": -5.5706
             },
             {
-                "lat": 42.60240308709993,
-                "lng": -5.568039614209965
+                "lat": 42.599935,
+                "lng": -5.571215
             },
             {
-                "lat": 42.60231092851629,
-                "lng": -5.568455732348838
+                "lat": 42.599809,
+                "lng": -5.571583
             },
             {
-                "lat": 42.60202360970462,
-                "lng": -5.569037561249701
+                "lat": 42.59964,
+                "lng": -5.571597
             },
             {
-                "lat": 42.60201005689831,
-                "lng": -5.569229049242665
+                "lat": 42.598665,
+                "lng": -5.571669
             },
             {
-                "lat": 42.60198295127552,
-                "lng": -5.569332158162041
+                "lat": 42.598503,
+                "lng": -5.571695
             },
             {
-                "lat": 42.60229466522259,
-                "lng": -5.569586247998529
+                "lat": 42.598267,
+                "lng": -5.571862
             },
             {
-                "lat": 42.601771326151066,
-                "lng": -5.570642528514412
+                "lat": 42.598289,
+                "lng": -5.571976
             },
             {
-                "lat": 42.60160869161615,
-                "lng": -5.57057256174798
+                "lat": 42.59827,
+                "lng": -5.572058
             },
             {
-                "lat": 42.60151924244056,
-                "lng": -5.570826651584497
+                "lat": 42.598213,
+                "lng": -5.572162
             },
             {
-                "lat": 42.601093679453214,
-                "lng": -5.5705872915937675
+                "lat": 42.598133,
+                "lng": -5.572218
             },
             {
-                "lat": 42.60081036307116,
-                "lng": -5.570468932014904
+                "lat": 42.598049,
+                "lng": -5.572234
             },
             {
-                "lat": 42.60056640734601,
-                "lng": -5.570468932014904
+                "lat": 42.597788,
+                "lng": -5.57221
             },
             {
-                "lat": 42.6004932204429,
-                "lng": -5.570767211388699
+                "lat": 42.597741,
+                "lng": -5.572188
             },
             {
-                "lat": 42.59877733094828,
-                "lng": -5.569898048106239
+                "lat": 42.597668,
+                "lng": -5.572149
             },
             {
-                "lat": 42.59825350772206,
-                "lng": -5.569794492124856
+                "lat": 42.597584,
+                "lng": -5.572093
             },
             {
-                "lat": 42.59806375667708,
-                "lng": -5.5702953068750105
+                "lat": 42.597299,
+                "lng": -5.571899
             },
             {
-                "lat": 42.59798830093234,
-                "lng": -5.57106249832276
+                "lat": 42.596994,
+                "lng": -5.571688
             },
             {
-                "lat": 42.59738237019937,
-                "lng": -5.570784932465131
+                "lat": 42.59689,
+                "lng": -5.571616
             },
             {
-                "lat": 42.597458271516786,
-                "lng": -5.570390909094897
+                "lat": 42.596784,
+                "lng": -5.571516
             },
             {
-                "lat": 42.59747995759071,
-                "lng": -5.570066852491948
+                "lat": 42.596467,
+                "lng": -5.571315
             },
             {
-                "lat": 42.59700828378499,
-                "lng": -5.569923236496805
+                "lat": 42.596301,
+                "lng": -5.57122
             },
             {
-                "lat": 42.595501089639214,
-                "lng": -5.56966912722288
+                "lat": 42.59651,
+                "lng": -5.569834
             },
             {
-                "lat": 42.59529235423835,
-                "lng": -5.569588113072172
+                "lat": 42.596232,
+                "lng": -5.569775
             },
             {
-                "lat": 42.594431993506845,
-                "lng": -5.570118441231386
+                "lat": 42.595788,
+                "lng": -5.569711
+            },
+            {
+                "lat": 42.595513,
+                "lng": -5.569671
+            },
+            {
+                "lat": 42.595313,
+                "lng": -5.569552
+            },
+            {
+                "lat": 42.595502,
+                "lng": -5.568843
+            },
+            {
+                "lat": 42.59549,
+                "lng": -5.568787
+            },
+            {
+                "lat": 42.595354,
+                "lng": -5.568678
+            },
+            {
+                "lat": 42.595362,
+                "lng": -5.568173
+            },
+            {
+                "lat": 42.594995,
+                "lng": -5.568352
+            },
+            {
+                "lat": 42.59503,
+                "lng": -5.568318
             }
         ],
         "pasos": [
-            "Los Atributos",
-            "La Lanzada",
-            "Santo Cristo",
-            "Nuestra Señora de las Angustias",
-            "El Camino del Sepulcro",
-            "Yacente",
+            "Santo Cristo de la Agonía",
+            "Santo Cristo del Desenclavo",
+            "Descendimiento",
             "Santo Sepulcro",
             "San Juan",
-            "Nuestra Señora de la Soledad"
+            "Virgen de la Soledad"
         ],
         "tipo": "procesion",
         "recorridos": [
             {
                 "id": "principal",
                 "nombre": null,
-                "polyline": "egvfpAdkbsIUoOGyEC{J_Aym@?_BC_E@sDNaE^uEcA?sEeG}BgCkAuAcFgEeC{AaBs@f@}SiAyM{CkZcC{LY}ASgBaAqBuE{GuNiNaWcVmAkAy@o@uYuGS_Hf@c_@g@qMgCmEoCyEgEoF_J_A_G[aCLkGv@cJbCcGnB[JFXXjBeC|@u@Tu@RsNzEeA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtAqa@bFyNeKeC}Oo^tI}I[caBra@u]zI{@v@zDjZfF|MjJvT`@|CUF@tABdEt@nBkAx@_HhFqCvB^r@xAtFtC`GLSx@~BrArD\\v@\\v@lCfHzBbGfA`DlKyAzB[bBWl@h@h@d@XvINxENvE@|AlBeAvRoItOcFjMZpC~P`NoFlIgDfb@eRbDyA`CeARK~F{BlJoD`@OpNuEfDy@|ZcD|Jh^e@hEdDtr@|@`KDf@ZdDLjBJxADhE?`CQh@l@fDEzBQlCWtAc@z@eAtAmAx@aB`@_EJ`B`A`Bb@dACnKa@xBMj@Op@[`@SnBy@jBgAz@g@hHgEnG{DxK{GfEiC`Ak@lCcBfCeBjAaBxPkJ~@e@`GsChAi@_AcLaJohA~@KjNiB~Jy@vNeArJq@pD]jF}ApL^~JdEjb@fW`Br@dCzAbFfEjAtA|BfCrEdGbA?_@tEO`EArDB~D?~A~@xm@BzJFxETnO",
-                "longitud_m": 3103,
+                "polyline": "klxfpAzrzrIdAbAaWcVb@|JmHvS|HxIe@|@iFzCG^OnAyP|JsOkSy@fCoAiBoAgBsCqEoDiFr@_AaHeGcKgGkBqBuAiCoAgEuAiIYr@qIzCyAn@Ka@Ia@uAaHWkDsByH}@eEkG}YKg@dA]eA\\eAZwEzA]yAW_A[JiGpBc[xBuPv@aXpAb@zCz@`HRvAVpBoAtA~Jhv@vC`UlA`JvJpu@TlA|Jh^wBfC{KvCsUlEeG|BkF`Ce}@ja@k@hUfHTjBFdFRph@jBjRb@bEX~BXtA`@`KjHSzAWfCLrAVnAt@`Cz@lA|@l@`B`A`Bb@dACnKa@xBMj@Op@[`@SnBy@jBgAz@g@hHgEnG{DxK{GfEiC`Ak@lCcBfCeBjAaBxPiJ~@g@`GqChAk@_AcLaJohA~@KjNiB~Jy@vNeArJq@pD]jF}AbDoCs\\k_@xP}JNoAF_@hF{Cd@}@}HyIlHwSc@}J`WbVeAcA",
+                "longitud_m": 2132,
                 "tramos": [
                     {
-                        "nombre": "Jardín de San Francisco",
+                        "nombre": "Plaza del Grano",
                         "desde_m": 0,
-                        "hasta_m": 193
+                        "hasta_m": 57
                     },
                     {
-                        "nombre": "San Francisco",
-                        "desde_m": 193,
-                        "hasta_m": 207
+                        "nombre": "Juan II",
+                        "desde_m": 57,
+                        "hasta_m": 185
                     },
                     {
-                        "nombre": "Hospicio",
-                        "desde_m": 207,
-                        "hasta_m": 315
+                        "nombre": "Fernández Cadórniga",
+                        "desde_m": 185,
+                        "hasta_m": 225
                     },
                     {
-                        "nombre": "Escurial",
-                        "desde_m": 315,
-                        "hasta_m": 376
+                        "nombre": "Plaza de Don Gutierre",
+                        "desde_m": 225,
+                        "hasta_m": 273
                     },
                     {
-                        "nombre": "Plaza Santa María del Camino",
-                        "desde_m": 376,
-                        "hasta_m": 434
+                        "nombre": "Zapaterías",
+                        "desde_m": 273,
+                        "hasta_m": 356
                     },
                     {
-                        "nombre": "Cuesta de las Carbajalas",
-                        "desde_m": 434,
-                        "hasta_m": 487
+                        "nombre": "Plaza San Martín",
+                        "desde_m": 356,
+                        "hasta_m": 399
                     },
                     {
-                        "nombre": "Cofradía Nuestra Señora de las Angustias y Soledad",
-                        "desde_m": 487,
-                        "hasta_m": 499
-                    },
-                    {
-                        "nombre": "Cuesta de los Castañones",
-                        "desde_m": 499,
-                        "hasta_m": 560
-                    },
-                    {
-                        "nombre": "Santa Cruz",
-                        "desde_m": 560,
-                        "hasta_m": 692
+                        "nombre": "Plegaria",
+                        "desde_m": 399,
+                        "hasta_m": 470
                     },
                     {
                         "nombre": "Plaza Mayor",
-                        "desde_m": 692,
-                        "hasta_m": 768
+                        "desde_m": 470,
+                        "hasta_m": 501
                     },
                     {
                         "nombre": "Mariano Domínguez Berrueta",
-                        "desde_m": 768,
-                        "hasta_m": 912
+                        "desde_m": 501,
+                        "hasta_m": 645
                     },
                     {
                         "nombre": "Plaza de Regla",
-                        "desde_m": 912,
-                        "hasta_m": 1040
-                    },
-                    {
-                        "nombre": "Cardenal Landázuri",
-                        "desde_m": 1040,
-                        "hasta_m": 1381
-                    },
-                    {
-                        "nombre": "Convento",
-                        "desde_m": 1381,
-                        "hasta_m": 1477
-                    },
-                    {
-                        "nombre": "Plaza del Vizconde",
-                        "desde_m": 1477,
-                        "hasta_m": 1485
-                    },
-                    {
-                        "nombre": "Plaza del Desenclavo",
-                        "desde_m": 1485,
-                        "hasta_m": 1502
-                    },
-                    {
-                        "nombre": "Serranos",
-                        "desde_m": 1502,
-                        "hasta_m": 1535
-                    },
-                    {
-                        "nombre": "Puerta Castillo",
-                        "desde_m": 1535,
-                        "hasta_m": 1619
-                    },
-                    {
-                        "nombre": "Plaza Santo Martino",
-                        "desde_m": 1619,
-                        "hasta_m": 1696
-                    },
-                    {
-                        "nombre": "Sacramento",
-                        "desde_m": 1696,
-                        "hasta_m": 1772
-                    },
-                    {
-                        "nombre": "Plaza de San Isidoro",
-                        "desde_m": 1772,
-                        "hasta_m": 1851
-                    },
-                    {
-                        "nombre": "El Cid",
-                        "desde_m": 1851,
-                        "hasta_m": 2084
+                        "desde_m": 645,
+                        "hasta_m": 678
                     },
                     {
                         "nombre": "Ancha",
-                        "desde_m": 2084,
-                        "hasta_m": 2131
+                        "desde_m": 678,
+                        "hasta_m": 923
                     },
                     {
-                        "nombre": "Plaza San Marcelo",
-                        "desde_m": 2131,
-                        "hasta_m": 2256
+                        "nombre": "Plaza de San Marcelo",
+                        "desde_m": 923,
+                        "hasta_m": 956
+                    },
+                    {
+                        "nombre": "Ruiz de Salazar",
+                        "desde_m": 956,
+                        "hasta_m": 1146
+                    },
+                    {
+                        "nombre": "Ramón y Cajal",
+                        "desde_m": 1146,
+                        "hasta_m": 1342
                     },
                     {
                         "nombre": "Plaza de Santo Domingo",
-                        "desde_m": 2256,
-                        "hasta_m": 2308
+                        "desde_m": 1342,
+                        "hasta_m": 1398
                     },
                     {
                         "nombre": "Independencia",
-                        "desde_m": 2308,
-                        "hasta_m": 2537
+                        "desde_m": 1398,
+                        "hasta_m": 1627
                     },
                     {
                         "nombre": "Policía Nacional",
-                        "desde_m": 2537,
-                        "hasta_m": 2653
+                        "desde_m": 1627,
+                        "hasta_m": 1743
                     },
                     {
-                        "nombre": "Rúa",
-                        "desde_m": 2653,
-                        "hasta_m": 2778
+                        "nombre": "La Rúa",
+                        "desde_m": 1743,
+                        "hasta_m": 1868
                     },
                     {
                         "nombre": "Plaza de las Concepciones",
-                        "desde_m": 2778,
-                        "hasta_m": 2803
+                        "desde_m": 1868,
+                        "hasta_m": 1879
                     },
                     {
-                        "nombre": "San Francisco",
-                        "desde_m": 2803,
-                        "hasta_m": 2910
+                        "nombre": "Fernández Cadórniga",
+                        "desde_m": 1879,
+                        "hasta_m": 1947
                     },
                     {
-                        "nombre": "Jardín de San Francisco",
-                        "desde_m": 2910,
-                        "hasta_m": 3103
+                        "nombre": "Juan II",
+                        "desde_m": 1947,
+                        "hasta_m": 1986
+                    },
+                    {
+                        "nombre": "Plaza de Santa María del Camino",
+                        "desde_m": 1986,
+                        "hasta_m": 2132
                     }
                 ],
                 "paradas": [
                     {
-                        "nombre": "Capilla de Santa Nonia",
+                        "nombre": "salida del Convento RR. MM. Benedictinas - Carbajalas",
                         "tipo": "salida",
                         "along_m": 0
                     },
                     {
-                        "nombre": "Iglesia de Santa Nonia",
+                        "nombre": "Sermón de la Soledad",
+                        "tipo": "acto",
+                        "along_m": 29
+                    },
+                    {
+                        "nombre": "Ofrenda al Cristo de Fuera",
+                        "tipo": "acto",
+                        "along_m": 434
+                    },
+                    {
+                        "nombre": "Convento RR. MM. Benedictinas – Carbajalas",
                         "tipo": "entrada",
-                        "along_m": 3103
+                        "along_m": 2132
                     }
                 ]
             }
@@ -10847,5 +10829,3 @@
         ]
     }
 ]
-
-

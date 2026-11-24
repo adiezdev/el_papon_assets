@@ -1,52 +1,52 @@
 [
-  {
-    "id_dia": "8c599187-573e-4340-9a3d-319b25f0e972",
-    "nombre_dia": "Viernes de Dolores",
-    "fecha": "2026-03-27"
-  },
-  {
-    "id_dia": "2f4e4a78-838d-4e96-b333-66f81e64627d",
-    "nombre_dia": "Sábado de Pasión",
-    "fecha": "2026-03-28"
-  },
-  {
-    "id_dia": "b7894321-c456-4321-b123-987654321001",
-    "nombre_dia": "Domingo de Ramos",
-    "fecha": "2026-03-29"
-  },
-  {
-    "id_dia": "a1b2c3d4-e5f6-4a5b-bc12-123456789010",
-    "nombre_dia": "Lunes Santo",
-    "fecha": "2026-03-30"
-  },
-  {
-    "id_dia": "c9d8e7f6-a5b4-4c3d-d2e1-098765432109",
-    "nombre_dia": "Martes Santo",
-    "fecha": "2026-03-31"
-  },
-  {
-    "id_dia": "f1e2d3c4-b5a6-4987-8765-112233445566",
-    "nombre_dia": "Miércoles Santo",
-    "fecha": "2026-04-01"
-  },
-  {
-    "id_dia": "00a1b2c3-d4e5-4f6a-8b9c-ddeeff001122",
-    "nombre_dia": "Jueves Santo",
-    "fecha": "2026-04-02"
-  },
-  {
-    "id_dia": "77788899-aaaa-bbbb-cccc-ddeeff003344",
-    "nombre_dia": "Viernes Santo",
-    "fecha": "2026-04-03"
-  },
-  {
-    "id_dia": "55544433-2221-1110-9998-887766554433",
-    "nombre_dia": "Sábado Santo",
-    "fecha": "2026-04-04"
-  },
-  {
-    "id_dia": "12345678-1234-1234-1234-123456789012",
-    "nombre_dia": "Domingo de Resurrección",
-    "fecha": "2026-04-05"
-  }
+    {
+        "id_dia": "8c599187-573e-4340-9a3d-319b25f0e972",
+        "nombre_dia": "Viernes de Dolores",
+        "fecha": "2027-03-19"
+    },
+    {
+        "id_dia": "2f4e4a78-838d-4e96-b333-66f81e64627d",
+        "nombre_dia": "Sábado de Pasión",
+        "fecha": "2027-03-20"
+    },
+    {
+        "id_dia": "b7894321-c456-4321-b123-987654321001",
+        "nombre_dia": "Domingo de Ramos",
+        "fecha": "2027-03-21"
+    },
+    {
+        "id_dia": "a1b2c3d4-e5f6-4a5b-bc12-123456789010",
+        "nombre_dia": "Lunes Santo",
+        "fecha": "2027-03-22"
+    },
+    {
+        "id_dia": "c9d8e7f6-a5b4-4c3d-d2e1-098765432109",
+        "nombre_dia": "Martes Santo",
+        "fecha": "2027-03-23"
+    },
+    {
+        "id_dia": "f1e2d3c4-b5a6-4987-8765-112233445566",
+        "nombre_dia": "Miércoles Santo",
+        "fecha": "2027-03-24"
+    },
+    {
+        "id_dia": "00a1b2c3-d4e5-4f6a-8b9c-ddeeff001122",
+        "nombre_dia": "Jueves Santo",
+        "fecha": "2027-03-25"
+    },
+    {
+        "id_dia": "77788899-aaaa-bbbb-cccc-ddeeff003344",
+        "nombre_dia": "Viernes Santo",
+        "fecha": "2027-03-26"
+    },
+    {
+        "id_dia": "55544433-2221-1110-9998-887766554433",
+        "nombre_dia": "Sábado Santo",
+        "fecha": "2027-03-27"
+    },
+    {
+        "id_dia": "12345678-1234-1234-1234-123456789012",
+        "nombre_dia": "Domingo de Resurrección",
+        "fecha": "2027-03-28"
+    }
 ]
