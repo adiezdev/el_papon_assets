@@ -1,0 +1,368 @@
+[
+  {
+    "id": "angustias-fiesta-alegria",
+    "id_barrio": "angustias-y-soledad",
+    "titulo": "Fiesta de la Alegría",
+    "regla": {
+      "ancla": {
+        "tipo": "pascua",
+        "dias": 49
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "angustias-visperas-alegria",
+    "id_barrio": "angustias-y-soledad",
+    "titulo": "Vísperas de la Alegría y jornada de convivencia",
+    "regla": {
+      "ancla": {
+        "tipo": "pascua",
+        "dias": 49
+      },
+      "ajuste": "sabado-anterior"
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "angustias-corpus-alegria",
+    "id_barrio": "angustias-y-soledad",
+    "titulo": "Procesión del Corpus Christi con la Virgen de la Alegría",
+    "regla": {
+      "ancla": {
+        "tipo": "pascua",
+        "dias": 60
+      },
+      "ajuste": "domingo-siguiente"
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "jhs-festividad-dulce-nombre",
+    "id_barrio": "dulce-nombre-de-jesus-nazareno",
+    "titulo": "Festividad del Dulce Nombre de Jesús",
+    "regla": {
+      "ancla": {
+        "tipo": "fija",
+        "mes": 1,
+        "dia": 3
+      },
+      "ajuste": "domingo-mas-cercano"
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "jhs-ceniza",
+    "id_barrio": "dulce-nombre-de-jesus-nazareno",
+    "titulo": "Imposición de la ceniza",
+    "regla": {
+      "ancla": {
+        "tipo": "pascua",
+        "dias": -46
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "jhs-concierto-dia-padre",
+    "id_barrio": "dulce-nombre-de-jesus-nazareno",
+    "titulo": "Concierto del Día del Padre",
+    "regla": {
+      "ancla": {
+        "tipo": "fija",
+        "mes": 3,
+        "dia": 19
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": "En torno al 19 de marzo."
+  },
+  {
+    "id": "jhs-requiem-difuntos",
+    "id_barrio": "dulce-nombre-de-jesus-nazareno",
+    "titulo": "Misa de réquiem por los hermanos difuntos",
+    "regla": {
+      "ancla": {
+        "tipo": "fija",
+        "mes": 11,
+        "dia": 2
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "jhs-nacimiento",
+    "id_barrio": "dulce-nombre-de-jesus-nazareno",
+    "titulo": "Montaje del nacimiento",
+    "regla": {
+      "ancla": {
+        "tipo": "mes",
+        "mes": 12
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "minerva-ceniza",
+    "id_barrio": "minerva-y-vera-cruz",
+    "titulo": "Misa y toma de ceniza",
+    "regla": {
+      "ancla": {
+        "tipo": "pascua",
+        "dias": -46
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "minerva-in-albis",
+    "id_barrio": "minerva-y-vera-cruz",
+    "titulo": "Domingo in Albis en La Virgen del Camino",
+    "regla": {
+      "ancla": {
+        "tipo": "pascua",
+        "dias": 7
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "santa-marta-festividad",
+    "id_barrio": "santa-marta-y-sagrada-cena",
+    "titulo": "Festividad de Santa Marta",
+    "regla": {
+      "ancla": {
+        "tipo": "mes",
+        "mes": 7
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": "La fiesta litúrgica es el 29 de julio."
+  },
+  {
+    "id": "divino-obrero-triduo-soledad",
+    "id_barrio": "jesus-divino-obrero",
+    "titulo": "Triduo a Nuestra Señora de la Soledad",
+    "regla": {
+      "ancla": {
+        "tipo": "mes",
+        "mes": 3
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "divino-obrero-besamanos-soledad",
+    "id_barrio": "jesus-divino-obrero",
+    "titulo": "Besamanos a Nuestra Señora de la Soledad",
+    "regla": {
+      "ancla": {
+        "tipo": "mes",
+        "mes": 3
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "redencion-misericordia",
+    "id_barrio": "jesus-de-la-redencion",
+    "titulo": "Culto a Nuestro Padre Jesús de la Misericordia",
+    "regla": {
+      "ancla": {
+        "tipo": "cristo-rey"
+      },
+      "ajuste": "fin-de-semana"
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "redencion-exaltacion-cruz",
+    "id_barrio": "jesus-de-la-redencion",
+    "titulo": "Exaltación de la Santa Cruz",
+    "regla": {
+      "ancla": {
+        "tipo": "fija",
+        "mes": 9,
+        "dia": 14
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "redencion-visperas-pentecostes",
+    "id_barrio": "jesus-de-la-redencion",
+    "titulo": "Vísperas de Pentecostés",
+    "regla": {
+      "ancla": {
+        "tipo": "pascua",
+        "dias": 49
+      },
+      "ajuste": "sabado-anterior"
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "redencion-difuntos",
+    "id_barrio": "jesus-de-la-redencion",
+    "titulo": "Misa por los hermanos difuntos",
+    "regla": {
+      "ancla": {
+        "tipo": "adviento",
+        "dias": -1
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "mdn-marcha-virgen-camino",
+    "id_barrio": "maria-del-dulce-nombre",
+    "titulo": "Marcha a la Virgen del Camino",
+    "regla": {
+      "ancla": {
+        "tipo": "mes",
+        "mes": 4
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "mdn-misa-consuelo",
+    "id_barrio": "maria-del-dulce-nombre",
+    "titulo": "Misa a Jesús del Consuelo",
+    "regla": {
+      "ancla": {
+        "tipo": "mes",
+        "mes": 5
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "mdn-romeria-aparicion",
+    "id_barrio": "maria-del-dulce-nombre",
+    "titulo": "Procesión-Romería de la Aparición",
+    "regla": {
+      "ancla": {
+        "tipo": "mes",
+        "mes": 7
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": "En La Virgen del Camino."
+  },
+  {
+    "id": "mdn-dulce-nombre-maria",
+    "id_barrio": "maria-del-dulce-nombre",
+    "titulo": "Misa del Dulce Nombre de María",
+    "regla": {
+      "ancla": {
+        "tipo": "mes",
+        "mes": 9
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": "La fiesta litúrgica es el 12 de septiembre."
+  },
+  {
+    "id": "mdn-junta-general",
+    "id_barrio": "maria-del-dulce-nombre",
+    "titulo": "Junta General",
+    "regla": {
+      "ancla": {
+        "tipo": "mes",
+        "mes": 11
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "mdn-triduo-inmaculada",
+    "id_barrio": "maria-del-dulce-nombre",
+    "titulo": "Triduo a la Inmaculada Concepción",
+    "regla": {
+      "ancla": {
+        "tipo": "fija",
+        "mes": 12,
+        "dia": 8
+      },
+      "dias": 3,
+      "terminaAntes": true
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "desenclavo-festividad",
+    "id_barrio": "santo-cristo-del-desenclavo",
+    "titulo": "Festividad de la Cofradía y toma de posesión de nuevos seises",
+    "regla": {
+      "ancla": {
+        "tipo": "nesimo",
+        "mes": 11,
+        "diaSemana": 0,
+        "n": 2
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  },
+  {
+    "id": "sacramentado-junta-general",
+    "id_barrio": "jesus-sacramentado-y-maria-santisima-de-la-piedad",
+    "titulo": "Junta General de Hermanos",
+    "regla": {
+      "ancla": {
+        "tipo": "nesimo",
+        "mes": 2,
+        "diaSemana": 0,
+        "n": 2
+      }
+    },
+    "hora": null,
+    "lugar": null,
+    "notas": null
+  }
+]
+

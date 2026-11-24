@@ -1,0 +1,421 @@
+[
+  {
+    "id_barrio": "angustias-y-soledad",
+    "name": "Cofradía Nuestra Señora de las Angustias y Soledad",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-de-nuestra-senora-de-las-angustias-y-soledad-nuevo.svg",
+    "date_fundacion": "1578",
+    "sede_canonica": "Capilla de Santa Nonia – Iglesia Parroquial Nuestra Señora del Mercado",
+    "description": "La más antigua de las penitenciales de León, fundada el 9 de febrero de 1578 en el Convento de Santo Domingo el Real. Nace como cofradía de disciplinantes con una marcada vocación asistencial. Tiene su sede en la Capilla de Santa Nonia y es, junto al Dulce Nombre de Jesús Nazareno y la Real de Minerva y Vera Cruz, una de las cofradías centenarias de la ciudad, galardonada con la Medalla de Oro de León. Organiza la Solemne y Oficial Procesión del Santo Entierro el Viernes Santo.",
+    "atuendo": "El hábito de la Cofradía está compuesto por túnica negra lisa de tablón sencillo, con capillo, guantes negros, cíngulo negro y zapatos negros. Las bocamangas están orladas por un cordón amarillo. El hábito se completa con camisa blanca, corbata negra, pantalón negro y calcetines negros. Los miembros de la Junta de Seises sustituyen el capillo por un capirote alto y llevan doble cordón amarillo en las bocamangas.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/titulares/whatsapp-image-2026-03-05-at-08-46-19-1024x576.webp",
+    "procesiones": [
+      {
+        "dia": "Domingo de Ramos",
+        "nombre": "PROCESIÓN DE LOS RAMOS",
+        "id_dia": "b7894321-c456-4321-b123-987654321001"
+      },
+      {
+        "dia": "Lunes Santo",
+        "nombre": "PROCESIÓN DE LA PASIÓN",
+        "id_dia": "a1b2c3d4-e5f6-4a5b-bc12-123456789010",
+        "id_procession": "l-santo-01"
+      },
+      {
+        "dia": "Martes Santo",
+        "nombre": "PROCESIÓN DOLOR DE NUESTRA MADRE",
+        "id_dia": "c9d8e7f6-a5b4-4c3d-d2e1-098765432109",
+        "id_procession": "m-santo-02"
+      },
+      {
+        "dia": "Viernes Santo",
+        "nombre": "SOLEMNE Y OFICIAL PROCESIÓN DEL SANTO ENTIERRO (Años pares)",
+        "id_dia": "77788899-aaaa-bbbb-cccc-ddeeff003344",
+        "id_procession": "v-santo-03"
+      }
+    ],
+    "secciones_musicales": [
+      "Agrupación Musical de Nuestra Señora de las Angustias y Soledad"
+    ]
+  },
+  {
+    "id_barrio": "dulce-nombre-de-jesus-nazareno",
+    "name": "Cofradía Dulce Nombre de Jesús Nazareno",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-del-dulce-nombre-de-jesus-nazareno.svg",
+    "date_fundacion": "1611",
+    "sede_canonica": "Capilla de Santa Nonia – Iglesia Parroquial Nuestra Señora del Mercado",
+    "description": "Cofradía penitencial fundada en 1611 y radicada en la Capilla de Santa Nonia. Es una de las cofradías centenarias de León, reconocida con la Medalla de Oro de la ciudad. Su emblema es una corona de espinas doble con las siglas JHS y tres clavos. Su titular, Nuestro Padre Jesús Nazareno, obra de la Escuela Castellana del siglo XVII, sale cada Lunes Santo en la Procesión de la Pasión.",
+    "atuendo": "Túnica de tablón de sarga negra, con cintas de raso del mismo color bordeando el cuello, las bocamangas y atravesando horizontalmente la parte superior del pecho y de la espalda y verticalmente el centro delantero; capillo de idéntico tejido y color con cinta de raso negro en su borde inferior; cíngulo también negro, con las caídas hacia la izquierda y emblema en hilo morado y fondo negro sobre el corazón. Completan el hábito: camisa blanca y corbata, guantes, pantalón, calcetines y calzado negros.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/titulares/935607911.webp",
+    "procesiones": [
+      {
+        "dia": "Lunes Santo",
+        "nombre": "PROCESIÓN DE LA PASIÓN",
+        "id_dia": "a1b2c3d4-e5f6-4a5b-bc12-123456789010",
+        "id_procession": "l-santo-01"
+      },
+      {
+        "dia": "Viernes Santo",
+        "nombre": "PROCESIÓN DE LOS PASOS",
+        "id_dia": "77788899-aaaa-bbbb-cccc-ddeeff003344",
+        "id_procession": "v-santo-01"
+      }
+    ],
+    "secciones_musicales": [
+      "Banda de Música Cofradía del Dulce Nombre de Jesús Nazareno",
+      "Agrupación Musical Cofradía del Dulce Nombre de Jesús Nazareno",
+      "Banda de Cornetas y Tambores Cofradía del Dulce Nombre de Jesús Nazareno"
+    ]
+  },
+  {
+    "id_barrio": "minerva-y-vera-cruz",
+    "name": "Real Cofradía Santísimo Sacramento de Minerva y la Santa Vera Cruz",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-de-la-real-cofradia-del-santisimo-sacramento-de-minerva-y-la-santa-vera-cruz.svg",
+    "date_fundacion": "1612",
+    "sede_canonica": "Iglesia Parroquial de San Martín",
+    "description": "Penitencial con más de cuatro siglos de historia: su primer dato documentado en León se remonta a 1612. Es una de las tres cofradías centenarias galardonadas con la Medalla de Oro de la ciudad y la más antigua de las penitenciales en cuanto a la devoción de la Vera Cruz. Tiene su sede en San Martín y organiza la Solemne y Oficial Procesión del Santo Entierro los años impares y la Procesión de la Amargura del Miércoles Santo. Su escudo, pentagonal y timbrado con corona real, reúne las letras M y V y el cáliz con la Sagrada Forma.",
+    "atuendo": "El hábito está compuesto por túnica negra lisa de tablón sencillo, con bocamangas de terciopelo morado. Se completa con camisa blanca, guantes negros, pantalón negro, calcetines negros y zapatos negros. Los miembros de la Junta de Gobierno, así como los Abades y Seises Honorarios, sustituyen el capillo por un capirote de terciopelo morado, en cuyo babero figura el emblema. Además, incorporan ribete y gemelos dorados en las bocamangas. Asimismo, visten capa y cuellos de sarga blanca con vueltas de raso del mismo color, llevando también el emblema sobre el corazón.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/titulares/miguel-seijas-3premio-1024x683.webp",
+    "procesiones": [
+      {
+        "dia": "Lunes Santo",
+        "nombre": "PROCESIÓN DE LA PASIÓN",
+        "id_dia": "a1b2c3d4-e5f6-4a5b-bc12-123456789010",
+        "id_procession": "l-santo-01"
+      },
+      {
+        "dia": "Miércoles Santo",
+        "nombre": "PROCESIÓN VIRGEN DE LA AMARGURA",
+        "id_dia": "f1e2d3c4-b5a6-4987-8765-112233445566",
+        "id_procession": "mi-santo-02"
+      },
+      {
+        "dia": "Viernes Santo",
+        "nombre": "SOLEMNE Y OFICIAL PROCESIÓN DEL SANTO ENTIERRO (Años impares)",
+        "id_dia": "77788899-aaaa-bbbb-cccc-ddeeff003344"
+      }
+    ],
+    "secciones_musicales": [
+      "Sección Musical Minerva y Vera Cruz"
+    ]
+  },
+  {
+    "id_barrio": "santa-marta-y-sagrada-cena",
+    "name": "Hermandad Sacramental de Santa Marta y de la Sagrada Cena",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/diseno-sin-titulo-2.webp",
+    "date_fundacion": "1945",
+    "sede_canonica": "Iglesia de San Marcelo",
+    "description": "Fundada en 1945, tiene su sede canónica en la Iglesia de San Marcelo. Se dedica especialmente a la atención del prójimo, con las célebres «cenas del pobre», bajo el lema evangélico «Unum est necessarium». Procesiona el Jueves Santo con los grupos de Santa Marta y La Sagrada Cena.",
+    "atuendo": "El hábito está compuesto por túnica de color crema claro, con cuellos, bocamangas y botones de terciopelo color rojo sangre. Lleva ceñidor-fajín de terciopelo del mismo color. Se completa con capirote alto de terciopelo color rojo sangre, mientras que los braceros y braceras llevan capillo bajo de raso del mismo color. El resto de la indumentaria se compone de guantes blancos, camisa blanca, corbata negra, pantalón oscuro, calcetines negros y zapatos negros. Los miembros de la Junta Directiva visten además capa de lana blanca con vueltas de terciopelo color rojo sangre.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/titulares/img-4411.webp",
+    "procesiones": [
+      {
+        "dia": "Lunes Santo",
+        "nombre": "PROCESIÓN DEL ROSARIO DE PASIÓN",
+        "id_dia": "a1b2c3d4-e5f6-4a5b-bc12-123456789010",
+        "id_procession": "l-santo-02"
+      },
+      {
+        "dia": "Jueves Santo",
+        "nombre": "PROCESIÓN DE LA SAGRADA CENA",
+        "id_dia": "00a1b2c3-d4e5-4f6a-8b9c-ddeeff001122",
+        "id_procession": "j-santo-09"
+      }
+    ],
+    "secciones_musicales": []
+  },
+  {
+    "id_barrio": "jesus-divino-obrero",
+    "name": "Real Hermandad de Jesús Divino Obrero",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-de-la-real-hermandad-de-jesus-divino-obrero.svg",
+    "date_fundacion": "1955",
+    "sede_canonica": "Iglesia Parroquial de Jesús Divino Obrero",
+    "description": "Fundada el 19 de marzo de 1955 en la parroquia de San Juan y San Pedro de Renueva, fue la primera de la Semana Santa leonesa en contar con banda propia de cornetas y tambores. Desde 1965 tiene su sede en la Iglesia de Jesús Divino Obrero del barrio del Ejido, el primer templo de España dedicado a esta advocación. Fue también la primera en equiparar a hombres y mujeres en sus filas, desde 1987.",
+    "atuendo": "La indumentaria se compone de túnica de lana o tejido similar de color blanco-hueso; ceñidor, capirote y capa, además de pantalón oscuro, camisa blanca, corbata negra, zapatos y calcetines negros, lisos y sin adornos, guantes blancos y medalla con cordón. El ceñidor y el cordón de la medalla serán de blanco-hueso y morado entrelazados. El capirote deberá cubrir hasta los hombros y hasta la mitad del pecho. Las bocamangas y la botonadura de la túnica serán de terciopelo morado, y la capa será de raso morado con vistas del color y género de la túnica. El capirote podrá ser sustituido por un capillo de raso morado por los miembros de la Banda y por los hermanos hasta los ocho años de edad. Los braceros quedan dispensados del uso de la capa.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/titulares/diseno-sin-titulo-6.webp",
+    "procesiones": [
+      {
+        "dia": "Domingo de Ramos",
+        "nombre": "PROCESIÓN DE LOS RAMOS",
+        "id_dia": "b7894321-c456-4321-b123-987654321001"
+      },
+      {
+        "dia": "Sábado Santo",
+        "nombre": "PROCESIÓN DE LA SOLEDAD",
+        "id_dia": "55544433-2221-1110-9998-887766554433",
+        "id_procession": "s-santo-02"
+      },
+      {
+        "dia": "Domingo de Resurrección",
+        "nombre": "PROCESIÓN DEL ENCUENTRO",
+        "id_dia": "12345678-1234-1234-1234-123456789012",
+        "id_procession": "d-resurrec-01"
+      }
+    ],
+    "secciones_musicales": [
+      "Agrupación Musical Real Hermandad de Jesús Divino Obrero"
+    ]
+  },
+  {
+    "id_barrio": "siete-palabras-de-jesus-en-la-cruz",
+    "name": "Cofradía las Siete Palabras de Jesús en la Cruz",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-de-las-siete-palabras-de-jesus-en-la-cruz.svg",
+    "date_fundacion": "22 de septiembre de 1962",
+    "sede_canonica": "Iglesia Parroquial de San Marcelo",
+    "description": "Erigida el 22 de septiembre de 1962 por el obispo Luis Almarcha, con sede en la parroquia de San Marcelo. Fue la primera penitencial de León en incorporar la promesa del silencio y la primera en contar con instrumentos de metal. Su titular, el Santísimo Cristo de la Agonía, conocido como «Cristo de los Balderas», es una obra cumbre de Gregorio Fernández (1631). Procesiona el Viernes Santo.",
+    "atuendo": "Túnica lisa de terciopelo color rojo sangre, con anchas bocamangas de estilo monacal; capirote alto de lanilla blanca; capa de raso negro con vistas del mismo tejido en color blanco; y cíngulo negro doble con dos grandes borlas caídas al lado izquierdo. Completan el hábito guantes y calcetines blancos, zapato bajo negro y pantalón oscuro, preferentemente negro. Se recomienda, además, el uso de camisa blanca, corbata negra y medalla en aquellos actos a los que se acuda sin capillo.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/titulares/3-1.webp",
+    "procesiones": [
+      {
+        "dia": "Miércoles Santo",
+        "nombre": "SOLEMNE VÍA CRUCIS PROCESIONAL",
+        "id_dia": "f1e2d3c4-b5a6-4987-8765-112233445566",
+        "id_procession": "mi-santo-06"
+      },
+      {
+        "dia": "Viernes Santo",
+        "nombre": "PROCESIÓN DE LAS SIETE PALABRAS",
+        "id_dia": "77788899-aaaa-bbbb-cccc-ddeeff003344",
+        "id_procession": "v-santo-02"
+      }
+    ],
+    "secciones_musicales": [
+      "Banda de música Siete Palabras"
+    ]
+  },
+  {
+    "id_barrio": "santo-cristo-del-perdon",
+    "name": "Cofradía Santo Cristo del Perdón",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-del-santo-cristo-del-perdon-svg.webp",
+    "date_fundacion": "1964",
+    "sede_canonica": "Iglesia Parroquial de San Francisco de la Vega",
+    "description": "Nace el 3 de diciembre de 1964 en la parroquia de San Francisco de la Vega, séptima cofradía de la Semana Santa leonesa. Fue la primera en conseguir la gracia de indultar a un condenado, inaugurando una tradición muy arraigada en la ciudad. En 1965 salió por primera vez la Procesión del Perdón, el Martes Santo.",
+    "atuendo": "Hábito elaborado en sarga de lana de color marrón, de sencilla confección, con una tablilla por delante y por detrás. Se ciñe mediante un fajín de lana blanca que se anuda al lado derecho, quedando los extremos colgando en ese mismo lado. Los hermanos y hermanas cubren su rostro con capirote alto de 45 centímetros, elaborado con la misma tela, mientras que braceros, braceras y miembros de la banda utilizan capillo bajo. En sus orígenes se calzaba sandalia marrón; en la actualidad puede utilizarse sandalia o zapato marrón. Todos los hermanos y hermanas de la Cofradía portan una cruz de madera colgada al cuello mediante una cadena de eslabones de aluminio.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/titulares/4-1.webp",
+    "procesiones": [
+      {
+        "dia": "Domingo de Ramos",
+        "nombre": "PROCESIÓN DE LOS RAMOS",
+        "id_dia": "b7894321-c456-4321-b123-987654321001"
+      },
+      {
+        "dia": "Martes Santo",
+        "nombre": "PROCESIÓN DEL PERDÓN",
+        "id_dia": "c9d8e7f6-a5b4-4c3d-d2e1-098765432109",
+        "id_procession": "m-santo-01"
+      }
+    ],
+    "secciones_musicales": [
+      "Sección de Música de la Cofradía Santo Cristo del Perdón"
+    ]
+  },
+  {
+    "id_barrio": "maria-del-dulce-nombre",
+    "name": "Cofradía María del Dulce Nombre",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-de-maria-del-dulce-nombre-svg.webp",
+    "date_fundacion": "1991",
+    "sede_canonica": "Iglesia Parroquial de San Martín",
+    "description": "Fundada el 15 de enero de 1991. Surge en el impulso fundacional de la última década del siglo XX en la Semana Santa leonesa, dedicada al culto y la devoción del Dulce Nombre de María, y participa activamente en la vida penitencial de la ciudad.",
+    "atuendo": "Túnica negra de tablón sencillo, capillo, bocamangas y cíngulo verde, camisa blanca, pantalón, guantes, calcetín y zapato negro. Las hermanas de la Junta de Seises cambiarán el capillo por capirote, siendo este y las bocamangas de terciopelo verde y llevarán, además, capa de raso negro con las vistas también en terciopelo negro.",
+    "imagen_titular_url": "",
+    "procesiones": [
+      {
+        "dia": "Jueves Santo",
+        "nombre": "PROCESIÓN MARÍA AL PIE DE LA CRUZ, CAMINO DE LA ESPERANZA",
+        "id_dia": "00a1b2c3-d4e5-4f6a-8b9c-ddeeff001122",
+        "id_procession": "j-santo-05"
+      }
+    ],
+    "secciones_musicales": []
+  },
+  {
+    "id_barrio": "jesus-de-la-redencion",
+    "name": "Cofradía Nuestro Señor Jesús de la Redención",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/5-1.webp",
+    "date_fundacion": "1991",
+    "sede_canonica": "Iglesia Parroquial de San Martín",
+    "description": "Surge el 17 de enero de 1991 por iniciativa de un grupo de jóvenes, en su mayoría universitarios. Desde sus comienzos procesiona «a la vieja usanza», rescatando el uso de las horquetas y el silencio. Su sede es la románica iglesia de San Martín. Procesiona el Domingo de Ramos con su paso titular, el Santo Cristo de la Redención.",
+    "atuendo": "Túnica negra sencilla con el emblema de la cofradía, de color rojo, cosido a la altura del corazón en el lado izquierdo. Se completa con bocamangas y capillo de tela rojos, cíngulo rojo sencillo y sin borlas, zapatos, pantalón, calcetines, corbata y guantes negros, y camisa blanca. El hábito de la Junta de Seises sustituye el capillo por capirote, siendo este y las bocamangas de terciopelo rojo.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/5-1.webp",
+    "procesiones": [
+      {
+        "dia": "Domingo de Ramos",
+        "nombre": "PROCESIÓN DE NUESTRO SEÑOR JESÚS DE LA REDENCIÓN",
+        "id_dia": "b7894321-c456-4321-b123-987654321001",
+        "id_procession": "d-ramos-04"
+      }
+    ],
+    "secciones_musicales": []
+  },
+  {
+    "id_barrio": "expiracion-y-del-silencio",
+    "name": "Cofradía Santísimo Cristo de la Expiración y del Silencio",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-del-santisimo-cristo-de-la-expiracion-y-del-silencio-svg.webp",
+    "date_fundacion": "1991",
+    "sede_canonica": "Convento de San Francisco \"El Real\" (HH. MM. Capuchinos)",
+    "description": "Constituida en 1991 para ayudar a la comunidad franciscana a organizar dos procesiones históricas: la del Dainos, el Domingo de Ramos, y la Procesión del Silencio del Miércoles Santo. Tiene su sede en el convento de San Francisco y recuperó el tradicional Vía Crucis cantado del Martes Santo.",
+    "atuendo": "Túnica simple de sarga en color morado (penitencial) “Medinaceli”, salpicada desde el canesú por pequeños botones forrados de raso blanco. Se ciñe con cordón o cíngulo simple blanco, anudado a la derecha y con los tres nudos de la Cofradía, como el de la Tau, planteados a la usanza franciscana en recuerdo de las Tres Caídas de Nuestro Padre Jesús Nazareno en su advocación del Dainos, utilizando el número tres como símbolo de lo completo y definitivo. El capirote es blanco (luto) de raso, y el pectoral se ciñe superponiendo la Tau. En las procesiones, la vestimenta se completa con guantes, zapatos, calcetines, corbata y pantalón negros, y camisa blanca. En los actos solemnes de la Cofradía en los que no se utiliza túnica o se asiste descubierto, la indumentaria oficial es la Capa Parda, completada con Tau, chaqueta, corbata y pantalón oscuro.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/titulares/6.webp",
+    "procesiones": [
+      {
+        "dia": "Domingo de Ramos",
+        "nombre": "INMEMORIAL PROCESIÓN DEL “DAINOS”, ANTAÑO DEL SANTO ROSARIO DE LA BUENA MUERTE",
+        "id_dia": "b7894321-c456-4321-b123-987654321001",
+        "id_procession": "d-ramos-03"
+      },
+      {
+        "dia": "Martes Santo",
+        "nombre": "TRADICIONAL CALVARIO O VÍA CRUCIS LEONÉS CANTADO",
+        "id_dia": "c9d8e7f6-a5b4-4c3d-d2e1-098765432109",
+        "id_procession": "m-santo-03"
+      },
+      {
+        "dia": "Miércoles Santo",
+        "nombre": "PROCESIÓN DEL SILENCIO",
+        "id_dia": "f1e2d3c4-b5a6-4987-8765-112233445566",
+        "id_procession": "mi-santo-03"
+      }
+    ],
+    "secciones_musicales": []
+  },
+  {
+    "id_barrio": "santo-cristo-de-la-bienaventuranza",
+    "name": "Cofradía Santo Cristo de la Bienaventuranza",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/8437.webp",
+    "date_fundacion": "1992",
+    "sede_canonica": "Iglesia Parroquial de San Claudio",
+    "description": "Nace en 1992 por iniciativa del párroco de San Claudio, con el apoyo de los jóvenes del barrio y de los movimientos parroquiales, para llevar a la calle la celebración de la Pasión, Muerte y Resurrección de Jesucristo. Constituida canónicamente por el obispo Antonio Vilaplana Molina, tiene su sede en la Iglesia Parroquial de San Claudio.",
+    "atuendo": "El hábito de la Cofradía está compuesto por una túnica negra sencilla de tablón, con el emblema situado en el lado izquierdo del pecho, acompañada de capillo, bocamangas de raso azul y cíngulo del mismo color. Se completa con zapato negro bajo, calcetines negros, guantes, corbata y pantalón negro, junto con camisa blanca. Por su parte, la Junta de Seises, así como aquellos hermanos que esta determine, vestirán el hábito reglamentario sustituyendo el capillo bajo por un capuchón de terciopelo azul de 64 cm de altura, que lleva el emblema situado en la parte inferior central delantera. Este conjunto incluye también bocamangas de terciopelo azul y capa de raso del mismo color, con vistas negras.",
+    "imagen_titular_url": "",
+    "procesiones": [
+      {
+        "dia": "Jueves Santo",
+        "nombre": "PROCESIÓN DE LAS BIENAVENTURANZAS",
+        "id_dia": "00a1b2c3-d4e5-4f6a-8b9c-ddeeff001122",
+        "id_procession": "j-santo-01"
+      }
+    ],
+    "secciones_musicales": [
+      "Agrupación Musical Santo Cristo de la Bienaventuranza"
+    ]
+  },
+  {
+    "id_barrio": "santo-cristo-del-desenclavo",
+    "name": "Cofradía Santo Cristo del Desenclavo",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-del-santo-cristo-del-desenclavo.svg",
+    "date_fundacion": "1992",
+    "sede_canonica": "Iglesia de Santa Marina la Real",
+    "description": "Se firma su acta fundacional el 3 de julio de 1992 y el Obispado la constituye canónicamente ese mismo año, con sede en Santa Marina la Real. En 1993 realiza su primera salida procesional escenificando el primer Desenclavo, recuperando para la ciudad un antiguo rito de la Pasión. Procesiona las Tinieblas el Jueves Santo y el Desenclavo el Sábado Santo.",
+    "atuendo": "Túnica lisa de sarga púrpura, con bocamangas y capirote negros del mismo tejido. Se ciñe con cíngulo negro, con las caídas a la izquierda. El emblema se sitúa en el centro del babero. El hábito se completa con camisa blanca y guantes, pantalón, calcetines y zapato bajo negros.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/titulares/027-1.webp",
+    "procesiones": [
+      {
+        "dia": "Domingo de Ramos",
+        "nombre": "PROCESIÓN DE LOS RAMOS",
+        "id_dia": "b7894321-c456-4321-b123-987654321001"
+      },
+      {
+        "dia": "Jueves Santo",
+        "nombre": "PROCESIÓN DE LAS TINIEBLAS Y SANTO CRISTO DE LAS INJURIAS",
+        "id_dia": "00a1b2c3-d4e5-4f6a-8b9c-ddeeff001122",
+        "id_procession": "j-santo-02"
+      },
+      {
+        "dia": "Sábado Santo",
+        "nombre": "PROCESIÓN DEL SANTO CRISTO DEL DESENCLAVO",
+        "id_dia": "55544433-2221-1110-9998-887766554433",
+        "id_procession": "s-santo-01"
+      }
+    ],
+    "secciones_musicales": [
+      "Sección Musical del Desenclavo"
+    ]
+  },
+  {
+    "id_barrio": "santo-sepulcro-esperanza-de-vida",
+    "name": "Cofradía Santo Sepulcro Esperanza de Vida",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-del-santo-sepulcro-esperanza-de-vida.svg",
+    "date_fundacion": "1992",
+    "sede_canonica": "Parroquia de San Froilán",
+    "description": "Fundada en 1992, tiene su sede en la parroquia de San Froilán. Su emblema es la Cruz del Santo Sepulcro utilizada en el antiguo Reino de León, la llamada «Cruz de Malta», representada en rojo sobre campo blanco. Su nombre expresa la doble dimensión de la Semana Santa: la muerte y la esperanza de la Resurrección.",
+    "atuendo": "Los hermanos que procesionan visten un hábito que combina los dos colores que representan la dualidad del nombre de la cofradía: muerte (negro) y vida (blanco). A la túnica negra tradicional se le añade capillo alto blanco con babero y cola, así como cíngulo, camisa y guantes blancos. Sobre el babero se coloca el emblema de la cofradía, de 12 cm de diámetro, situado a la altura del pecho. El hábito reglamentario se completa con zapatos, calcetines, corbata y pantalón negros. Los miembros de la Junta de Gobierno se distinguen por llevar capa blanca, con el escudo bordado en rojo a la altura del brazo izquierdo.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/titulares/cruz-de-hermanos-1-1-681x1024.webp",
+    "procesiones": [
+      {
+        "dia": "Sábado Santo",
+        "nombre": "PROCESIÓN CAMINO DE LA LUZ",
+        "id_dia": "55544433-2221-1110-9998-887766554433",
+        "id_procession": "s-santo-03"
+      }
+    ],
+    "secciones_musicales": [
+      "Agrupación Musical Santo Sepulcro-Esperanza de la Vida"
+    ]
+  },
+  {
+    "id_barrio": "la-agonia-de-nuestro-senor",
+    "name": "Cofradía La Agonía de Nuestro Señor",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/diseno-sin-titulo-4.webp",
+    "date_fundacion": "1993",
+    "sede_canonica": "Iglesia de Santa Marina la Real",
+    "description": "Nace el 4 de octubre de 1993 por iniciativa de siete hermanas, con sede en la parroquia de Santa Marina la Real. Procesionó por primera vez en 1996 y su imagen titular, Jesús del Vía Crucis, tallada por José Ajenjo, sale el Miércoles Santo en la procesión de Jesús Camino del Calvario.",
+    "atuendo": "La Cofradía viste túnica morada con bocamangas doradas, acompañada de capillo y cíngulo también dorados. El hábito se completa con guantes, calcetines y zapatos negros. Los miembros de la Junta de Seises se distinguen por llevar capa morada con ribetes dorados.",
+    "imagen_titular_url": "",
+    "procesiones": [
+      {
+        "dia": "Miércoles Santo",
+        "nombre": "PROCESIÓN JESÚS CAMINO DEL CALVARIO",
+        "id_dia": "f1e2d3c4-b5a6-4987-8765-112233445566",
+        "id_procession": "mi-santo-01"
+      }
+    ],
+    "secciones_musicales": []
+  },
+  {
+    "id_barrio": "cristo-del-gran-poder",
+    "name": "Cofradía Cristo del Gran Poder",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/emblema-cofradia-del-cristo-del-gran-poder.svg",
+    "date_fundacion": "9 de septiembre de 1994",
+    "sede_canonica": "Iglesia Parroquial de San Lorenzo",
+    "description": "Fundada el 9 de septiembre de 1994, tiene su sede en la parroquia de San Lorenzo. Su imagen titular, el Cristo del Gran Poder, obra de José Antolín Álvarez Chamorro (1994), sale el Domingo de Ramos en la Procesión del Cristo del Gran Poder y el Jueves Santo en la de La Despedida.",
+    "atuendo": "El hábito de la Cofradía Cristo del Gran Poder está compuesto por túnica negra sencilla, con el emblema de la cofradía en el pecho, al lado del corazón, capillo negro, bocamangas y cíngulo plateado. El capillo y las bocamangas estarán ribeteados con cordón plateado. Forman parte también del hábito, y por tanto son obligatorios, el zapato negro, calcetines negros, pantalón negro, corbata negra, camisa blanca y guantes negros. La Cofradía puede establecer variantes en el hábito para algunas secciones que se constituyan.",
+    "imagen_titular_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/titulares/8.webp",
+    "procesiones": [
+      {
+        "dia": "Domingo de Ramos",
+        "nombre": "PROCESIÓN DEL CRISTO DEL GRAN PODER",
+        "id_dia": "b7894321-c456-4321-b123-987654321001",
+        "id_procession": "d-ramos-02"
+      },
+      {
+        "dia": "Jueves Santo",
+        "nombre": "PROCESIÓN DE LA DESPEDIDA",
+        "id_dia": "00a1b2c3-d4e5-4f6a-8b9c-ddeeff001122",
+        "id_procession": "j-santo-04"
+      }
+    ],
+    "secciones_musicales": [
+      "Agrupación Musical Cristo del Gran Poder: 115 componentes"
+    ]
+  },
+  {
+    "id_barrio": "jesus-sacramentado-y-maria-santisima-de-la-piedad",
+    "name": "Sacramental y Penitencial Cofradía de Nuestro Padre Jesús Sacramentado y María Santísima de la Piedad, Amparo de los leoneses",
+    "emblema_url": "https://cdn.jsdelivr.net/gh/adiezdev/el_papon_assets@2fc9b8bce0ca76de6759ee3e91452b353bec051c/escudos/images-2.webp",
+    "date_fundacion": "1994",
+    "sede_canonica": "Real Colegiata Basílica de San Isidoro",
+    "description": "Cofradía de la Basílica de San Isidoro, fundada en 1994. Sus titulares son Nuestro Padre Jesús Sacramentado y María Santísima de la Piedad, «Amparo de los leoneses». Su emblema une el cordero eucarístico del tímpano de San Isidoro, en el campo superior, y a la Virgen de la Piedad de la Puerta del Perdón, en el inferior.",
+    "atuendo": "Túnica lisa de sarga de color azul marino y con manga ancha. El capirote tendrá un metro de alto, también de color azul marino, en cuyo babero se incorporará en el centro el emblema de la cofradía. Los pantalones, calcetines, zapatos, corbata y guantes serán de color negro y camisa blanca. Cíngulo de seda de color azul marino y oro entrelazados. Sobre el pecho la medalla de la cofradía, con el emblema en el anverso y la denominación de la Cofradía en el reverso, y cordón de las mismas características que las del cíngulo antes citado. Los braceros prescinden del interior del capuchón, cayendo el mismo por la espalda, y llevarán el emblema de la cofradía en el babero.",
+    "imagen_titular_url": "",
+    "procesiones": [
+      {
+        "dia": "Sábado Santo",
+        "nombre": "PIADOSO VÍA LUCÍS",
+        "id_dia": "55544433-2221-1110-9998-887766554433",
+        "id_procession": "s-santo-04"
+      }
+    ],
+    "secciones_musicales": []
+  }
+]
+
+
